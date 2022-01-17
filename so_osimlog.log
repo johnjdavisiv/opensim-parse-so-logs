@@ -1,0 +1,2052 @@
+[2022-01-16 23:15:45.136] [info] AbstractTool subject_scale_run loading model subject_run_adjusted.osim
+[2022-01-16 23:15:45.171] [info] Updating Model file from 30000 to latest format...
+[2022-01-16 23:15:45.245] [info] Loaded model subject_scale_run from file subject_run_adjusted.osim
+[2022-01-16 23:15:45.246] [warning] Couldn't find file 'r_pelvis.vtp'.
+[2022-01-16 23:15:45.246] [warning] Couldn't find file 'l_pelvis.vtp'.
+[2022-01-16 23:15:45.246] [warning] Couldn't find file 'sacrum.vtp'.
+[2022-01-16 23:15:45.246] [warning] Couldn't find file 'r_femur.vtp'.
+[2022-01-16 23:15:45.246] [warning] Couldn't find file 'r_tibia.vtp'.
+[2022-01-16 23:15:45.246] [warning] Couldn't find file 'r_fibula.vtp'.
+[2022-01-16 23:15:45.247] [warning] Couldn't find file 'r_patella.vtp'.
+[2022-01-16 23:15:45.247] [warning] Couldn't find file 'r_talus.vtp'.
+[2022-01-16 23:15:45.247] [warning] Couldn't find file 'r_foot.vtp'.
+[2022-01-16 23:15:45.247] [warning] Couldn't find file 'r_bofoot.vtp'.
+[2022-01-16 23:15:45.247] [warning] Couldn't find file 'l_femur.vtp'.
+[2022-01-16 23:15:45.247] [warning] Couldn't find file 'l_tibia.vtp'.
+[2022-01-16 23:15:45.247] [warning] Couldn't find file 'l_fibula.vtp'.
+[2022-01-16 23:15:45.247] [warning] Couldn't find file 'l_pat.vtp'.
+[2022-01-16 23:15:45.247] [warning] Couldn't find file 'l_talus.vtp'.
+[2022-01-16 23:15:45.248] [warning] Couldn't find file 'l_foot.vtp'.
+[2022-01-16 23:15:45.248] [warning] Couldn't find file 'l_bofoot.vtp'.
+[2022-01-16 23:15:45.248] [warning] Couldn't find file 'hat_spine.vtp'.
+[2022-01-16 23:15:45.248] [warning] Couldn't find file 'hat_jaw.vtp'.
+[2022-01-16 23:15:45.248] [warning] Couldn't find file 'hat_skull.vtp'.
+[2022-01-16 23:15:45.248] [warning] Couldn't find file 'hat_ribs_scap.vtp'.
+[2022-01-16 23:15:45.248] [warning] Couldn't find file 'humerus_rv.vtp'.
+[2022-01-16 23:15:45.248] [warning] Couldn't find file 'ulna_rv.vtp'.
+[2022-01-16 23:15:45.248] [warning] Couldn't find file 'radius_rv.vtp'.
+[2022-01-16 23:15:45.248] [warning] Couldn't find file 'pisiform_rvs.vtp'.
+[2022-01-16 23:15:45.248] [warning] Couldn't find file 'lunate_rvs.vtp'.
+[2022-01-16 23:15:45.249] [warning] Couldn't find file 'scaphoid_rvs.vtp'.
+[2022-01-16 23:15:45.249] [warning] Couldn't find file 'triquetrum_rvs.vtp'.
+[2022-01-16 23:15:45.249] [warning] Couldn't find file 'hamate_rvs.vtp'.
+[2022-01-16 23:15:45.249] [warning] Couldn't find file 'capitate_rvs.vtp'.
+[2022-01-16 23:15:45.249] [warning] Couldn't find file 'trapezoid_rvs.vtp'.
+[2022-01-16 23:15:45.249] [warning] Couldn't find file 'trapezium_rvs.vtp'.
+[2022-01-16 23:15:45.249] [warning] Couldn't find file 'metacarpal2_rvs.vtp'.
+[2022-01-16 23:15:45.249] [warning] Couldn't find file 'index_proximal_rvs.vtp'.
+[2022-01-16 23:15:45.249] [warning] Couldn't find file 'index_medial_rvs.vtp'.
+[2022-01-16 23:15:45.249] [warning] Couldn't find file 'index_distal_rvs.vtp'.
+[2022-01-16 23:15:45.249] [warning] Couldn't find file 'metacarpal3_rvs.vtp'.
+[2022-01-16 23:15:45.249] [warning] Couldn't find file 'middle_proximal_rvs.vtp'.
+[2022-01-16 23:15:45.250] [warning] Couldn't find file 'middle_medial_rvs.vtp'.
+[2022-01-16 23:15:45.250] [warning] Couldn't find file 'middle_distal_rvs.vtp'.
+[2022-01-16 23:15:45.250] [warning] Couldn't find file 'metacarpal4_rvs.vtp'.
+[2022-01-16 23:15:45.250] [warning] Couldn't find file 'ring_proximal_rvs.vtp'.
+[2022-01-16 23:15:45.250] [warning] Couldn't find file 'ring_medial_rvs.vtp'.
+[2022-01-16 23:15:45.250] [warning] Couldn't find file 'ring_distal_rvs.vtp'.
+[2022-01-16 23:15:45.250] [warning] Couldn't find file 'metacarpal5_rvs.vtp'.
+[2022-01-16 23:15:45.250] [warning] Couldn't find file 'little_proximal_rvs.vtp'.
+[2022-01-16 23:15:45.251] [warning] Couldn't find file 'little_medial_rvs.vtp'.
+[2022-01-16 23:15:45.251] [warning] Couldn't find file 'little_distal_rvs.vtp'.
+[2022-01-16 23:15:45.251] [warning] Couldn't find file 'metacarpal1_rvs.vtp'.
+[2022-01-16 23:15:45.251] [warning] Couldn't find file 'thumb_proximal_rvs.vtp'.
+[2022-01-16 23:15:45.251] [warning] Couldn't find file 'thumb_distal_rvs.vtp'.
+[2022-01-16 23:15:45.251] [warning] Couldn't find file 'humerus_lv.vtp'.
+[2022-01-16 23:15:45.251] [warning] Couldn't find file 'ulna_lv.vtp'.
+[2022-01-16 23:15:45.251] [warning] Couldn't find file 'radius_lv.vtp'.
+[2022-01-16 23:15:45.251] [warning] Couldn't find file 'pisiform_lvs.vtp'.
+[2022-01-16 23:15:45.251] [warning] Couldn't find file 'lunate_lvs.vtp'.
+[2022-01-16 23:15:45.251] [warning] Couldn't find file 'scaphoid_lvs.vtp'.
+[2022-01-16 23:15:45.252] [warning] Couldn't find file 'triquetrum_lvs.vtp'.
+[2022-01-16 23:15:45.252] [warning] Couldn't find file 'hamate_lvs.vtp'.
+[2022-01-16 23:15:45.252] [warning] Couldn't find file 'capitate_lvs.vtp'.
+[2022-01-16 23:15:45.252] [warning] Couldn't find file 'trapezoid_lvs.vtp'.
+[2022-01-16 23:15:45.252] [warning] Couldn't find file 'trapezium_lvs.vtp'.
+[2022-01-16 23:15:45.252] [warning] Couldn't find file 'metacarpal2_lvs.vtp'.
+[2022-01-16 23:15:45.252] [warning] Couldn't find file 'index_proximal_lvs.vtp'.
+[2022-01-16 23:15:45.252] [warning] Couldn't find file 'index_medial_lvs.vtp'.
+[2022-01-16 23:15:45.252] [warning] Couldn't find file 'index_distal_lvs.vtp'.
+[2022-01-16 23:15:45.252] [warning] Couldn't find file 'metacarpal3_lvs.vtp'.
+[2022-01-16 23:15:45.252] [warning] Couldn't find file 'middle_proximal_lvs.vtp'.
+[2022-01-16 23:15:45.252] [warning] Couldn't find file 'middle_medial_lvs.vtp'.
+[2022-01-16 23:15:45.253] [warning] Couldn't find file 'middle_distal_lvs.vtp'.
+[2022-01-16 23:15:45.253] [warning] Couldn't find file 'metacarpal4_lvs.vtp'.
+[2022-01-16 23:15:45.253] [warning] Couldn't find file 'ring_proximal_lvs.vtp'.
+[2022-01-16 23:15:45.253] [warning] Couldn't find file 'ring_medial_lvs.vtp'.
+[2022-01-16 23:15:45.253] [warning] Couldn't find file 'ring_distal_lvs.vtp'.
+[2022-01-16 23:15:45.253] [warning] Couldn't find file 'metacarpal5_lvs.vtp'.
+[2022-01-16 23:15:45.253] [warning] Couldn't find file 'little_proximal_lvs.vtp'.
+[2022-01-16 23:15:45.253] [warning] Couldn't find file 'little_medial_lvs.vtp'.
+[2022-01-16 23:15:45.253] [warning] Couldn't find file 'little_distal_lvs.vtp'.
+[2022-01-16 23:15:45.253] [warning] Couldn't find file 'metacarpal1_lvs.vtp'.
+[2022-01-16 23:15:45.253] [warning] Couldn't find file 'thumb_proximal_lvs.vtp'.
+[2022-01-16 23:15:45.253] [warning] Couldn't find file 'thumb_distal_lvs.vtp'.
+[2022-01-16 23:15:45.254] [info] ControllerSet 'Controllers' was renamed and is being reset to 'controllerset'.
+[2022-01-16 23:15:45.369] [info] Adding force object set from so_actuators.xml
+[2022-01-16 23:15:45.563] [info] ExternalLoads 'grf_run' was renamed and is being reset to 'externalloads'.
+[2022-01-16 23:15:45.677] [info] Old version storage/motion file encountered
+[2022-01-16 23:15:45.677] [info] Storage: read data file = grf_run.mot (nr=5091 nc=19)
+[2022-01-16 23:15:45.677] [info] .. assuming rotations in Degrees..
+[2022-01-16 23:15:45.718] [info] ExternalForce::RightFoot_ExternalForce Data source being set to grf_run.mot
+[2022-01-16 23:15:45.719] [info] ExternalForce::LeftFoot_ExternalForce Data source being set to grf_run.mot
+[2022-01-16 23:15:45.730] [info] Loading coordinates from file 'ik_output_run.mot'.
+[2022-01-16 23:15:45.731] [info] Storage: read data file = ik_output_run.mot (nr=510 nc=40)
+[2022-01-16 23:15:50.326] [info] Found 510 state vectors with time stamps ranging from 0.23 to 5.32.
+[2022-01-16 23:15:50.326] [info] Executing the analyses from 0.23 to 1.0...
+[2022-01-16 23:15:50.481] [info] Old version storage/motion file encountered
+[2022-01-16 23:15:50.481] [info] Storage: read data file = grf_run.mot (nr=5091 nc=19)
+[2022-01-16 23:15:50.481] [info] .. assuming rotations in Degrees..
+[2022-01-16 23:15:50.531] [info] ExternalForce::RightFoot_ExternalForce Data source being set to grf_run.mot
+[2022-01-16 23:15:50.531] [info] ExternalForce::LeftFoot_ExternalForce Data source being set to grf_run.mot
+[2022-01-16 23:15:50.604] [info] Old version storage/motion file encountered
+[2022-01-16 23:15:50.604] [info] Storage: read data file = grf_run.mot (nr=5091 nc=19)
+[2022-01-16 23:15:50.604] [info] .. assuming rotations in Degrees..
+[2022-01-16 23:15:50.647] [info] ExternalForce::RightFoot_ExternalForce Data source being set to grf_run.mot
+[2022-01-16 23:15:50.647] [info] ExternalForce::LeftFoot_ExternalForce Data source being set to grf_run.mot
+[2022-01-16 23:15:54.315] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Maximum iterations exceeded (status -1)
+[2022-01-16 23:15:54.315] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:15:54.315] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.23.
+[2022-01-16 23:15:54.315] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   glmax1_r approaching upper bound of 1
+   glmax2_r approaching upper bound of 1
+   glmed1_r approaching upper bound of 1
+   glmed2_r approaching upper bound of 1
+   glmed3_r approaching upper bound of 1
+   glmin1_r approaching upper bound of 1
+   glmin2_r approaching upper bound of 1
+   glmin3_r approaching upper bound of 1
+   piri_r approaching upper bound of 1
+   sart_r approaching upper bound of 1
+   semimem_r approaching upper bound of 1
+   tfl_r approaching upper bound of 1
+   addbrev_l approaching upper bound of 1
+   addlong_l approaching upper bound of 1
+   bfsh_l approaching upper bound of 1
+   gaslat_l approaching upper bound of 1
+   gasmed_l approaching upper bound of 1
+   glmin1_l approaching upper bound of 1
+   glmin2_l approaching upper bound of 1
+   glmin3_l approaching upper bound of 1
+   iliacus_l approaching upper bound of 1
+   psoas_l approaching upper bound of 1
+   recfem_l approaching upper bound of 1
+   sart_l approaching upper bound of 1
+   tfl_l approaching upper bound of 1
+
+[2022-01-16 23:15:54.315] [cout] [info] time = 0.23 Performance = 6.91966e+07 Constraint violation = 325.133
+[2022-01-16 23:15:54.317] [info] Bounds for 'addbrev_r': 0.01 to 1.0.
+[2022-01-16 23:15:54.317] [info] Bounds for 'addlong_r': 0.01 to 1.0.
+[2022-01-16 23:15:54.317] [info] Bounds for 'addmagDist_r': 0.01 to 1.0.
+[2022-01-16 23:15:54.317] [info] Bounds for 'addmagIsch_r': 0.01 to 1.0.
+[2022-01-16 23:15:54.317] [info] Bounds for 'addmagMid_r': 0.01 to 1.0.
+[2022-01-16 23:15:54.317] [info] Bounds for 'addmagProx_r': 0.01 to 1.0.
+[2022-01-16 23:15:54.317] [info] Bounds for 'bflh_r': 0.01 to 1.0.
+[2022-01-16 23:15:54.317] [info] Bounds for 'bfsh_r': 0.01 to 1.0.
+[2022-01-16 23:15:54.317] [info] Bounds for 'edl_r': 0.01 to 1.0.
+[2022-01-16 23:15:54.317] [info] Bounds for 'ehl_r': 0.01 to 1.0.
+[2022-01-16 23:15:54.317] [info] Bounds for 'fdl_r': 0.01 to 1.0.
+[2022-01-16 23:15:54.317] [info] Bounds for 'fhl_r': 0.01 to 1.0.
+[2022-01-16 23:15:54.317] [info] Bounds for 'gaslat_r': 0.01 to 1.0.
+[2022-01-16 23:15:54.317] [info] Bounds for 'gasmed_r': 0.01 to 1.0.
+[2022-01-16 23:15:54.317] [info] Bounds for 'glmax1_r': 0.01 to 1.0.
+[2022-01-16 23:15:54.317] [info] Bounds for 'glmax2_r': 0.01 to 1.0.
+[2022-01-16 23:15:54.317] [info] Bounds for 'glmax3_r': 0.01 to 1.0.
+[2022-01-16 23:15:54.317] [info] Bounds for 'glmed1_r': 0.01 to 1.0.
+[2022-01-16 23:15:54.317] [info] Bounds for 'glmed2_r': 0.01 to 1.0.
+[2022-01-16 23:15:54.317] [info] Bounds for 'glmed3_r': 0.01 to 1.0.
+[2022-01-16 23:15:54.317] [info] Bounds for 'glmin1_r': 0.01 to 1.0.
+[2022-01-16 23:15:54.317] [info] Bounds for 'glmin2_r': 0.01 to 1.0.
+[2022-01-16 23:15:54.317] [info] Bounds for 'glmin3_r': 0.01 to 1.0.
+[2022-01-16 23:15:54.317] [info] Bounds for 'grac_r': 0.01 to 1.0.
+[2022-01-16 23:15:54.317] [info] Bounds for 'iliacus_r': 0.01 to 1.0.
+[2022-01-16 23:15:54.317] [info] Bounds for 'perbrev_r': 0.01 to 1.0.
+[2022-01-16 23:15:54.317] [info] Bounds for 'perlong_r': 0.01 to 1.0.
+[2022-01-16 23:15:54.317] [info] Bounds for 'piri_r': 0.01 to 1.0.
+[2022-01-16 23:15:54.317] [info] Bounds for 'psoas_r': 0.01 to 1.0.
+[2022-01-16 23:15:54.317] [info] Bounds for 'recfem_r': 0.01 to 1.0.
+[2022-01-16 23:15:54.317] [info] Bounds for 'sart_r': 0.01 to 1.0.
+[2022-01-16 23:15:54.317] [info] Bounds for 'semimem_r': 0.01 to 1.0.
+[2022-01-16 23:15:54.317] [info] Bounds for 'semiten_r': 0.01 to 1.0.
+[2022-01-16 23:15:54.317] [info] Bounds for 'soleus_r': 0.01 to 1.0.
+[2022-01-16 23:15:54.317] [info] Bounds for 'tfl_r': 0.01 to 1.0.
+[2022-01-16 23:15:54.317] [info] Bounds for 'tibant_r': 0.01 to 1.0.
+[2022-01-16 23:15:54.317] [info] Bounds for 'tibpost_r': 0.01 to 1.0.
+[2022-01-16 23:15:54.317] [info] Bounds for 'vasint_r': 0.01 to 1.0.
+[2022-01-16 23:15:54.317] [info] Bounds for 'vaslat_r': 0.01 to 1.0.
+[2022-01-16 23:15:54.318] [info] Bounds for 'vasmed_r': 0.01 to 1.0.
+[2022-01-16 23:15:54.318] [info] Bounds for 'addbrev_l': 0.01 to 1.0.
+[2022-01-16 23:15:54.318] [info] Bounds for 'addlong_l': 0.01 to 1.0.
+[2022-01-16 23:15:54.318] [info] Bounds for 'addmagDist_l': 0.01 to 1.0.
+[2022-01-16 23:15:54.318] [info] Bounds for 'addmagIsch_l': 0.01 to 1.0.
+[2022-01-16 23:15:54.318] [info] Bounds for 'addmagMid_l': 0.01 to 1.0.
+[2022-01-16 23:15:54.318] [info] Bounds for 'addmagProx_l': 0.01 to 1.0.
+[2022-01-16 23:15:54.318] [info] Bounds for 'bflh_l': 0.01 to 1.0.
+[2022-01-16 23:15:54.318] [info] Bounds for 'bfsh_l': 0.01 to 1.0.
+[2022-01-16 23:15:54.318] [info] Bounds for 'edl_l': 0.01 to 1.0.
+[2022-01-16 23:15:54.318] [info] Bounds for 'ehl_l': 0.01 to 1.0.
+[2022-01-16 23:15:54.318] [info] Bounds for 'fdl_l': 0.01 to 1.0.
+[2022-01-16 23:15:54.318] [info] Bounds for 'fhl_l': 0.01 to 1.0.
+[2022-01-16 23:15:54.318] [info] Bounds for 'gaslat_l': 0.01 to 1.0.
+[2022-01-16 23:15:54.318] [info] Bounds for 'gasmed_l': 0.01 to 1.0.
+[2022-01-16 23:15:54.318] [info] Bounds for 'glmax1_l': 0.01 to 1.0.
+[2022-01-16 23:15:54.318] [info] Bounds for 'glmax2_l': 0.01 to 1.0.
+[2022-01-16 23:15:54.318] [info] Bounds for 'glmax3_l': 0.01 to 1.0.
+[2022-01-16 23:15:54.318] [info] Bounds for 'glmed1_l': 0.01 to 1.0.
+[2022-01-16 23:15:54.318] [info] Bounds for 'glmed2_l': 0.01 to 1.0.
+[2022-01-16 23:15:54.318] [info] Bounds for 'glmed3_l': 0.01 to 1.0.
+[2022-01-16 23:15:54.318] [info] Bounds for 'glmin1_l': 0.01 to 1.0.
+[2022-01-16 23:15:54.318] [info] Bounds for 'glmin2_l': 0.01 to 1.0.
+[2022-01-16 23:15:54.318] [info] Bounds for 'glmin3_l': 0.01 to 1.0.
+[2022-01-16 23:15:54.318] [info] Bounds for 'grac_l': 0.01 to 1.0.
+[2022-01-16 23:15:54.318] [info] Bounds for 'iliacus_l': 0.01 to 1.0.
+[2022-01-16 23:15:54.318] [info] Bounds for 'perbrev_l': 0.01 to 1.0.
+[2022-01-16 23:15:54.318] [info] Bounds for 'perlong_l': 0.01 to 1.0.
+[2022-01-16 23:15:54.318] [info] Bounds for 'piri_l': 0.01 to 1.0.
+[2022-01-16 23:15:54.318] [info] Bounds for 'psoas_l': 0.01 to 1.0.
+[2022-01-16 23:15:54.318] [info] Bounds for 'recfem_l': 0.01 to 1.0.
+[2022-01-16 23:15:54.318] [info] Bounds for 'sart_l': 0.01 to 1.0.
+[2022-01-16 23:15:54.318] [info] Bounds for 'semimem_l': 0.01 to 1.0.
+[2022-01-16 23:15:54.318] [info] Bounds for 'semiten_l': 0.01 to 1.0.
+[2022-01-16 23:15:54.318] [info] Bounds for 'soleus_l': 0.01 to 1.0.
+[2022-01-16 23:15:54.318] [info] Bounds for 'tfl_l': 0.01 to 1.0.
+[2022-01-16 23:15:54.318] [info] Bounds for 'tibant_l': 0.01 to 1.0.
+[2022-01-16 23:15:54.318] [info] Bounds for 'tibpost_l': 0.01 to 1.0.
+[2022-01-16 23:15:54.318] [info] Bounds for 'vasint_l': 0.01 to 1.0.
+[2022-01-16 23:15:54.318] [info] Bounds for 'vaslat_l': 0.01 to 1.0.
+[2022-01-16 23:15:54.318] [info] Bounds for 'vasmed_l': 0.01 to 1.0.
+[2022-01-16 23:15:54.318] [info] Bounds for 'lumbar_ext': -inf to inf.
+[2022-01-16 23:15:54.318] [info] Bounds for 'lumbar_bend': -inf to inf.
+[2022-01-16 23:15:54.318] [info] Bounds for 'lumbar_rot': -inf to inf.
+[2022-01-16 23:15:54.318] [info] Bounds for 'shoulder_flex_r': -inf to inf.
+[2022-01-16 23:15:54.318] [info] Bounds for 'shoulder_add_r': -inf to inf.
+[2022-01-16 23:15:54.318] [info] Bounds for 'shoulder_rot_r': -inf to inf.
+[2022-01-16 23:15:54.318] [info] Bounds for 'elbow_flex_r': -inf to inf.
+[2022-01-16 23:15:54.318] [info] Bounds for 'pro_sup_r': -inf to inf.
+[2022-01-16 23:15:54.318] [info] Bounds for 'wrist_flex_r': -inf to inf.
+[2022-01-16 23:15:54.318] [info] Bounds for 'wrist_dev_r': -inf to inf.
+[2022-01-16 23:15:54.318] [info] Bounds for 'shoulder_flex_l': -inf to inf.
+[2022-01-16 23:15:54.318] [info] Bounds for 'shoulder_add_l': -inf to inf.
+[2022-01-16 23:15:54.318] [info] Bounds for 'shoulder_rot_l': -inf to inf.
+[2022-01-16 23:15:54.318] [info] Bounds for 'elbow_flex_l': -inf to inf.
+[2022-01-16 23:15:54.318] [info] Bounds for 'pro_sup_l': -inf to inf.
+[2022-01-16 23:15:54.318] [info] Bounds for 'wrist_flex_l': -inf to inf.
+[2022-01-16 23:15:54.318] [info] Bounds for 'wrist_dev_l': -inf to inf.
+[2022-01-16 23:15:54.318] [info] Bounds for 'FX': -inf to inf.
+[2022-01-16 23:15:54.318] [info] Bounds for 'FY': -inf to inf.
+[2022-01-16 23:15:54.318] [info] Bounds for 'FZ': -inf to inf.
+[2022-01-16 23:15:54.318] [info] Bounds for 'MX': -inf to inf.
+[2022-01-16 23:15:54.318] [info] Bounds for 'MY': -inf to inf.
+[2022-01-16 23:15:54.318] [info] Bounds for 'MZ': -inf to inf.
+[2022-01-16 23:15:54.318] [info] Bounds for 'hip_flexion_r_reserve': -inf to inf.
+[2022-01-16 23:15:54.318] [info] Bounds for 'hip_adduction_r_reserve': -inf to inf.
+[2022-01-16 23:15:54.318] [info] Bounds for 'hip_rotation_r_reserve': -inf to inf.
+[2022-01-16 23:15:54.318] [info] Bounds for 'knee_angle_r_reserve': -inf to inf.
+[2022-01-16 23:15:54.318] [info] Bounds for 'ankle_angle_r_reserve': -inf to inf.
+[2022-01-16 23:15:54.318] [info] Bounds for 'hip_flexion_l_reserve': -inf to inf.
+[2022-01-16 23:15:54.319] [info] Bounds for 'hip_adduction_l_reserve': -inf to inf.
+[2022-01-16 23:15:54.319] [info] Bounds for 'hip_rotation_l_reserve': -inf to inf.
+[2022-01-16 23:15:54.319] [info] Bounds for 'knee_angle_l_reserve': -inf to inf.
+[2022-01-16 23:15:54.319] [info] Bounds for 'ankle_angle_l_reserve': -inf to inf.
+[2022-01-16 23:15:56.344] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Restoration failed (status -2)
+[2022-01-16 23:15:56.344] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:15:56.344] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.24.
+[2022-01-16 23:15:56.344] [cout] [info] time = 0.24 Performance = 83482.6 Constraint violation = 3.79201e-07
+[2022-01-16 23:15:57.859] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Restoration failed (status -2)
+[2022-01-16 23:15:57.859] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:15:57.859] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.25.
+[2022-01-16 23:15:57.859] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   glmed1_r approaching upper bound of 1
+
+[2022-01-16 23:15:57.859] [cout] [info] time = 0.25 Performance = 127040. Constraint violation = 3.11266e-05
+[2022-01-16 23:15:58.825] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Restoration failed (status -2)
+[2022-01-16 23:15:58.825] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:15:58.825] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.26.
+[2022-01-16 23:15:58.825] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   glmax1_r approaching upper bound of 1
+   glmax2_r approaching upper bound of 1
+   glmed1_r approaching upper bound of 1
+   glmed2_r approaching upper bound of 1
+   glmed3_r approaching upper bound of 1
+   piri_r approaching upper bound of 1
+   addlong_l approaching upper bound of 1
+   iliacus_l approaching upper bound of 1
+   psoas_l approaching upper bound of 1
+   recfem_l approaching upper bound of 1
+   sart_l approaching upper bound of 1
+
+[2022-01-16 23:15:58.825] [cout] [info] time = 0.26 Performance = 204539. Constraint violation = 1.80488e-07
+[2022-01-16 23:16:00.631] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Maximum iterations exceeded (status -1)
+[2022-01-16 23:16:00.631] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:16:00.631] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.27.
+[2022-01-16 23:16:00.631] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   glmed1_r approaching upper bound of 1
+
+[2022-01-16 23:16:00.632] [cout] [info] time = 0.27 Performance = 332699. Constraint violation = 3.9892e-12
+[2022-01-16 23:16:02.302] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Restoration failed (status -2)
+[2022-01-16 23:16:02.302] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:16:02.302] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.28.
+[2022-01-16 23:16:02.302] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   addbrev_l approaching upper bound of 1
+   addlong_l approaching upper bound of 1
+   addmagProx_l approaching upper bound of 1
+   glmed3_l approaching upper bound of 1
+   piri_l approaching upper bound of 1
+   psoas_l approaching upper bound of 1
+   recfem_l approaching upper bound of 1
+   sart_l approaching upper bound of 1
+
+[2022-01-16 23:16:02.302] [cout] [info] time = 0.28 Performance = 324205. Constraint violation = 8.98839e-05
+[2022-01-16 23:16:04.012] [cout] [info] time = 0.29 Performance = 108225. Constraint violation = 5.6687e-12
+[2022-01-16 23:16:05.308] [cout] [info] time = 0.3 Performance = 72129.2 Constraint violation = 9.19828e-08
+[2022-01-16 23:16:06.384] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Restoration failed (status -2)
+[2022-01-16 23:16:06.384] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:16:06.384] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.31.
+[2022-01-16 23:16:06.384] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   addmagDist_r approaching upper bound of 1
+   addmagIsch_r approaching upper bound of 1
+   addmagMid_r approaching upper bound of 1
+   glmax1_r approaching upper bound of 1
+   glmax2_r approaching upper bound of 1
+   glmax3_r approaching upper bound of 1
+   glmed1_r approaching upper bound of 1
+   soleus_r approaching upper bound of 1
+   vasint_r approaching upper bound of 1
+   vaslat_r approaching upper bound of 1
+   vasmed_r approaching upper bound of 1
+   addmagProx_l approaching upper bound of 1
+   psoas_l approaching upper bound of 1
+   recfem_l approaching upper bound of 1
+   sart_l approaching upper bound of 1
+
+[2022-01-16 23:16:06.384] [cout] [info] time = 0.31 Performance = 91337.5 Constraint violation = 2.02557e-07
+[2022-01-16 23:16:07.541] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Restoration failed (status -2)
+[2022-01-16 23:16:07.541] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:16:07.541] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.32.
+[2022-01-16 23:16:07.541] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   glmax1_r approaching upper bound of 1
+   glmax2_r approaching upper bound of 1
+   glmed1_r approaching upper bound of 1
+   glmed2_r approaching upper bound of 1
+   glmed3_r approaching upper bound of 1
+   glmin1_r approaching upper bound of 1
+   glmin2_r approaching upper bound of 1
+   glmin3_r approaching upper bound of 1
+   piri_r approaching upper bound of 1
+   tfl_r approaching upper bound of 1
+
+[2022-01-16 23:16:07.542] [cout] [info] time = 0.32 Performance = 77004.6 Constraint violation = 0.000908726
+[2022-01-16 23:16:08.133] [cout] [info] time = 0.33 Performance = 120085. Constraint violation = 1.03194e-08
+[2022-01-16 23:16:13.599] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Maximum iterations exceeded (status -1)
+[2022-01-16 23:16:13.599] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:16:13.599] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.34.
+[2022-01-16 23:16:13.599] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   fdl_r approaching upper bound of 1
+   fhl_r approaching upper bound of 1
+   gaslat_r approaching upper bound of 1
+   gasmed_r approaching upper bound of 1
+   glmax1_r approaching upper bound of 1
+   glmax2_r approaching upper bound of 1
+   glmed1_r approaching upper bound of 1
+   glmed2_r approaching upper bound of 1
+   glmed3_r approaching upper bound of 1
+   glmin1_r approaching upper bound of 1
+   glmin2_r approaching upper bound of 1
+   glmin3_r approaching upper bound of 1
+   iliacus_r approaching upper bound of 1
+   perbrev_r approaching upper bound of 1
+   perlong_r approaching upper bound of 1
+   soleus_r approaching upper bound of 1
+   tfl_r approaching upper bound of 1
+   tibpost_r approaching upper bound of 1
+
+[2022-01-16 23:16:13.599] [cout] [info] time = 0.34 Performance = 296138. Constraint violation = 290.156
+[2022-01-16 23:16:14.750] [cout] [info] time = 0.35 Performance = 7057.13 Constraint violation = 2.14197e-09
+[2022-01-16 23:16:20.967] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Maximum iterations exceeded (status -1)
+[2022-01-16 23:16:20.967] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:16:20.967] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.36.
+[2022-01-16 23:16:20.967] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   fdl_r approaching upper bound of 1
+   fhl_r approaching upper bound of 1
+   gaslat_r approaching upper bound of 1
+   gasmed_r approaching upper bound of 1
+   perbrev_r approaching upper bound of 1
+   perlong_r approaching upper bound of 1
+   soleus_r approaching upper bound of 1
+   tibpost_r approaching upper bound of 1
+   addmagProx_l approaching upper bound of 1
+   psoas_l approaching upper bound of 1
+   recfem_l approaching upper bound of 1
+   sart_l approaching upper bound of 1
+
+[2022-01-16 23:16:20.968] [cout] [info] time = 0.36 Performance = 838015. Constraint violation = 3.89951e-12
+[2022-01-16 23:16:23.544] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Maximum iterations exceeded (status -1)
+[2022-01-16 23:16:23.545] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:16:23.545] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.37.
+[2022-01-16 23:16:23.545] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   fdl_r approaching upper bound of 1
+   fhl_r approaching upper bound of 1
+   gaslat_r approaching upper bound of 1
+   gasmed_r approaching upper bound of 1
+   iliacus_r approaching upper bound of 1
+   perbrev_r approaching upper bound of 1
+   perlong_r approaching upper bound of 1
+   psoas_r approaching upper bound of 1
+   soleus_r approaching upper bound of 1
+   tibpost_r approaching upper bound of 1
+
+[2022-01-16 23:16:23.545] [cout] [info] time = 0.37 Performance = 439877. Constraint violation = 58.3629
+[2022-01-16 23:16:24.310] [cout] [info] time = 0.38 Performance = 3722.43 Constraint violation = 1.36688e-08
+[2022-01-16 23:16:26.031] [cout] [info] time = 0.39 Performance = 70693.4 Constraint violation = 1.35836e-08
+[2022-01-16 23:16:26.734] [cout] [info] time = 0.4 Performance = 305931. Constraint violation = 1.55077e-12
+[2022-01-16 23:16:27.320] [cout] [info] time = 0.41 Performance = 3601.25 Constraint violation = 3.2593e-09
+[2022-01-16 23:16:27.829] [cout] [info] time = 0.42 Performance = 27972.9 Constraint violation = 1.17942e-05
+[2022-01-16 23:16:28.720] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Restoration failed (status -2)
+[2022-01-16 23:16:28.720] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:16:28.720] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.43.
+[2022-01-16 23:16:28.720] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   addmagProx_l approaching upper bound of 1
+   bfsh_l approaching upper bound of 1
+   psoas_l approaching upper bound of 1
+   recfem_l approaching upper bound of 1
+   sart_l approaching upper bound of 1
+   tibant_l approaching upper bound of 1
+
+[2022-01-16 23:16:28.720] [cout] [info] time = 0.43 Performance = 210176. Constraint violation = 4.2895e-05
+[2022-01-16 23:16:32.019] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Maximum iterations exceeded (status -1)
+[2022-01-16 23:16:32.019] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:16:32.019] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.44.
+[2022-01-16 23:16:32.019] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   addbrev_r approaching upper bound of 1
+   addlong_r approaching upper bound of 1
+   bfsh_r approaching upper bound of 1
+   edl_r approaching upper bound of 1
+   ehl_r approaching upper bound of 1
+   glmin1_r approaching upper bound of 1
+   glmin2_r approaching upper bound of 1
+   grac_r approaching upper bound of 1
+   iliacus_r approaching upper bound of 1
+   psoas_r approaching upper bound of 1
+   sart_r approaching upper bound of 1
+   tfl_r approaching upper bound of 1
+   tibant_r approaching upper bound of 1
+   addmagIsch_l approaching upper bound of 1
+   bflh_l approaching upper bound of 1
+   glmax1_l approaching upper bound of 1
+   glmax2_l approaching upper bound of 1
+   glmax3_l approaching upper bound of 1
+   glmed1_l approaching upper bound of 1
+   glmed2_l approaching upper bound of 1
+   glmed3_l approaching upper bound of 1
+   glmin1_l approaching upper bound of 1
+   glmin2_l approaching upper bound of 1
+   glmin3_l approaching upper bound of 1
+   piri_l approaching upper bound of 1
+   semimem_l approaching upper bound of 1
+   vasint_l approaching upper bound of 1
+   vaslat_l approaching upper bound of 1
+   vasmed_l approaching upper bound of 1
+
+[2022-01-16 23:16:32.019] [cout] [info] time = 0.44 Performance = 1.37663e+06 Constraint violation = 0.000569661
+[2022-01-16 23:16:32.668] [cout] [info] time = 0.45 Performance = 158051. Constraint violation = 1.51182e-12
+[2022-01-16 23:16:35.922] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Maximum iterations exceeded (status -1)
+[2022-01-16 23:16:35.922] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:16:35.922] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.46.
+[2022-01-16 23:16:35.922] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   bfsh_l approaching upper bound of 1
+   edl_l approaching upper bound of 1
+   ehl_l approaching upper bound of 1
+   glmed2_l approaching upper bound of 1
+   glmed3_l approaching upper bound of 1
+   glmin1_l approaching upper bound of 1
+   glmin2_l approaching upper bound of 1
+   glmin3_l approaching upper bound of 1
+   iliacus_l approaching upper bound of 1
+   piri_l approaching upper bound of 1
+   psoas_l approaching upper bound of 1
+   sart_l approaching upper bound of 1
+   tfl_l approaching upper bound of 1
+   tibant_l approaching upper bound of 1
+
+[2022-01-16 23:16:35.922] [cout] [info] time = 0.46 Performance = 838700. Constraint violation = 0.000101422
+[2022-01-16 23:16:40.570] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Maximum iterations exceeded (status -1)
+[2022-01-16 23:16:40.570] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:16:40.570] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.47.
+[2022-01-16 23:16:40.570] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   addbrev_r approaching upper bound of 1
+   addlong_r approaching upper bound of 1
+   addmagProx_r approaching upper bound of 1
+   bfsh_r approaching upper bound of 1
+   edl_r approaching upper bound of 1
+   ehl_r approaching upper bound of 1
+   grac_r approaching upper bound of 1
+   iliacus_r approaching upper bound of 1
+   psoas_r approaching upper bound of 1
+   sart_r approaching upper bound of 1
+   tfl_r approaching upper bound of 1
+   tibant_r approaching upper bound of 1
+   addmagDist_l approaching upper bound of 1
+   addmagIsch_l approaching upper bound of 1
+   addmagMid_l approaching upper bound of 1
+   bflh_l approaching upper bound of 1
+   glmax1_l approaching upper bound of 1
+   glmax2_l approaching upper bound of 1
+   glmax3_l approaching upper bound of 1
+   glmed2_l approaching upper bound of 1
+   glmed3_l approaching upper bound of 1
+   glmin3_l approaching upper bound of 1
+   grac_l approaching upper bound of 1
+   piri_l approaching upper bound of 1
+   semimem_l approaching upper bound of 1
+   semiten_l approaching upper bound of 1
+
+[2022-01-16 23:16:40.570] [cout] [info] time = 0.47 Performance = 724183. Constraint violation = 4390.96
+[2022-01-16 23:16:41.624] [cout] [info] time = 0.48 Performance = 47907.3 Constraint violation = 1.13428e-12
+[2022-01-16 23:16:42.628] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Restoration failed (status -2)
+[2022-01-16 23:16:42.628] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:16:42.628] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.49.
+[2022-01-16 23:16:42.629] [warning] The model appears unsuitable for static optimization.
+Try appending the model with additional force(s) or locking joint(s) to reduce the following acceleration constraint violation(s):
+   pelvis_tilt: constraint violation = -3.5486e-06
+   pelvis_tilt: constraint violation = -2.99862e-06
+   pelvis_tilt: constraint violation = -4.04926e-06
+   pelvis_tilt: constraint violation = 1.05831e-05
+   pelvis_tilt: constraint violation = 3.88194e-06
+   pelvis_tilt: constraint violation = 8.86593e-06
+   pelvis_tilt: constraint violation = 1.01466e-05
+   pelvis_tilt: constraint violation = -4.48134e-06
+   pelvis_tilt: constraint violation = 9.59363e-06
+   pelvis_tilt: constraint violation = 3.28088e-06
+   pelvis_tilt: constraint violation = 4.27607e-06
+   pelvis_tilt: constraint violation = -5.45275e-06
+   pelvis_tilt: constraint violation = -1.93579e-06
+   pelvis_tilt: constraint violation = -1.24577e-06
+   pelvis_tilt: constraint violation = -5.16461e-05
+   pelvis_tilt: constraint violation = 9.80949e-06
+   pelvis_tilt: constraint violation = 3.07969e-06
+
+[2022-01-16 23:16:42.629] [cout] [info] time = 0.49 Performance = 158355. Constraint violation = 5.74356e-05
+[2022-01-16 23:16:44.421] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Restoration failed (status -2)
+[2022-01-16 23:16:44.421] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:16:44.422] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.5.
+[2022-01-16 23:16:44.422] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   iliacus_r approaching upper bound of 1
+   psoas_r approaching upper bound of 1
+   glmax1_l approaching upper bound of 1
+   glmax2_l approaching upper bound of 1
+   glmed3_l approaching upper bound of 1
+
+[2022-01-16 23:16:44.422] [cout] [info] time = 0.5 Performance = 14496.8 Constraint violation = 1.10805e-12
+[2022-01-16 23:16:45.982] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Restoration failed (status -2)
+[2022-01-16 23:16:45.982] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:16:45.982] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.51.
+[2022-01-16 23:16:45.982] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   iliacus_r approaching upper bound of 1
+   psoas_r approaching upper bound of 1
+
+[2022-01-16 23:16:45.982] [cout] [info] time = 0.51 Performance = 161982. Constraint violation = 3.98048e-07
+[2022-01-16 23:16:48.038] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Restoration failed (status -2)
+[2022-01-16 23:16:48.038] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:16:48.038] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.52.
+[2022-01-16 23:16:48.038] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   iliacus_r approaching upper bound of 1
+   psoas_r approaching upper bound of 1
+   glmed3_l approaching upper bound of 1
+   tibant_l approaching upper bound of 1
+
+[2022-01-16 23:16:48.038] [cout] [info] time = 0.52 Performance = 72740.0 Constraint violation = 1.43172e-12
+[2022-01-16 23:16:51.263] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Maximum iterations exceeded (status -1)
+[2022-01-16 23:16:51.263] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:16:51.263] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.53.
+[2022-01-16 23:16:51.263] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   recfem_r approaching upper bound of 1
+
+[2022-01-16 23:16:51.263] [cout] [info] time = 0.53 Performance = 201423. Constraint violation = 8.92207e-13
+[2022-01-16 23:16:52.389] [cout] [info] time = 0.54 Performance = 11098.6 Constraint violation = 1.57075e-10
+[2022-01-16 23:16:53.420] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Restoration failed (status -2)
+[2022-01-16 23:16:53.420] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:16:53.420] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.55.
+[2022-01-16 23:16:53.421] [cout] [info] time = 0.55 Performance = 41909.9 Constraint violation = 8.85146e-13
+[2022-01-16 23:16:54.373] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Restoration failed (status -2)
+[2022-01-16 23:16:54.373] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:16:54.373] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.56.
+[2022-01-16 23:16:54.373] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   iliacus_r approaching upper bound of 1
+   psoas_r approaching upper bound of 1
+   recfem_r approaching upper bound of 1
+   tfl_r approaching upper bound of 1
+
+[2022-01-16 23:16:54.374] [cout] [info] time = 0.56 Performance = 152583. Constraint violation = 7.25871e-06
+[2022-01-16 23:16:55.916] [cout] [info] time = 0.57 Performance = 28553.8 Constraint violation = 8.94811e-07
+[2022-01-16 23:16:57.370] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Restoration failed (status -2)
+[2022-01-16 23:16:57.370] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:16:57.370] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.58.
+[2022-01-16 23:16:57.370] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   addlong_r approaching upper bound of 1
+   iliacus_r approaching upper bound of 1
+   psoas_r approaching upper bound of 1
+   recfem_r approaching upper bound of 1
+   glmed1_l approaching upper bound of 1
+
+[2022-01-16 23:16:57.370] [cout] [info] time = 0.58 Performance = 4500.45 Constraint violation = 5.62515e-07
+[2022-01-16 23:16:58.144] [cout] [info] time = 0.59 Performance = 12798.1 Constraint violation = 5.84802e-08
+[2022-01-16 23:16:59.631] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Restoration failed (status -2)
+[2022-01-16 23:16:59.631] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:16:59.631] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.6.
+[2022-01-16 23:16:59.632] [warning] The model appears unsuitable for static optimization.
+Try appending the model with additional force(s) or locking joint(s) to reduce the following acceleration constraint violation(s):
+   pelvis_tilt: constraint violation = 1.17504e-06
+   pelvis_tilt: constraint violation = 1.3056e-06
+   pelvis_tilt: constraint violation = 2.11088e-06
+   pelvis_tilt: constraint violation = 0.000129463
+   pelvis_tilt: constraint violation = 5.52825e-06
+   pelvis_tilt: constraint violation = 2.64625e-06
+   pelvis_tilt: constraint violation = -1.80347e-06
+
+[2022-01-16 23:16:59.632] [cout] [info] time = 0.6 Performance = 14628.6 Constraint violation = 0.000129655
+[2022-01-16 23:17:00.863] [cout] [info] time = 0.61 Performance = 91294.4 Constraint violation = 2.04223e-08
+[2022-01-16 23:17:03.045] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Restoration failed (status -2)
+[2022-01-16 23:17:03.045] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:17:03.045] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.62.
+[2022-01-16 23:17:03.045] [cout] [info] time = 0.62 Performance = 10990.1 Constraint violation = 1.90885e-12
+[2022-01-16 23:17:04.833] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Restoration failed (status -2)
+[2022-01-16 23:17:04.833] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:17:04.833] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.63.
+[2022-01-16 23:17:04.833] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   glmed1_l approaching upper bound of 1
+   glmed2_l approaching upper bound of 1
+   glmin1_l approaching upper bound of 1
+   soleus_l approaching upper bound of 1
+   vaslat_l approaching upper bound of 1
+
+[2022-01-16 23:17:04.833] [cout] [info] time = 0.63 Performance = 502346. Constraint violation = 2.06626e-12
+[2022-01-16 23:17:05.996] [cout] [info] time = 0.64 Performance = 65618.5 Constraint violation = 2.00947e-08
+[2022-01-16 23:17:06.666] [cout] [info] time = 0.65 Performance = 19852.7 Constraint violation = 1.2136e-08
+[2022-01-16 23:17:07.308] [cout] [info] time = 0.66 Performance = 32152.1 Constraint violation = 1.18923e-08
+[2022-01-16 23:17:11.933] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Maximum iterations exceeded (status -1)
+[2022-01-16 23:17:11.934] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:17:11.934] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.67.
+[2022-01-16 23:17:11.934] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   fdl_l approaching upper bound of 1
+   fhl_l approaching upper bound of 1
+   gaslat_l approaching upper bound of 1
+   gasmed_l approaching upper bound of 1
+   glmed1_l approaching upper bound of 1
+   glmin1_l approaching upper bound of 1
+   perbrev_l approaching upper bound of 1
+   perlong_l approaching upper bound of 1
+   soleus_l approaching upper bound of 1
+   tfl_l approaching upper bound of 1
+   tibpost_l approaching upper bound of 1
+
+[2022-01-16 23:17:11.934] [cout] [info] time = 0.67 Performance = 199998. Constraint violation = 0.496971
+[2022-01-16 23:17:12.608] [cout] [info] time = 0.68 Performance = 141000. Constraint violation = 9.78357e-09
+[2022-01-16 23:17:13.796] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Restoration failed (status -2)
+[2022-01-16 23:17:13.796] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:17:13.796] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.69.
+[2022-01-16 23:17:13.796] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   fdl_l approaching upper bound of 1
+   fhl_l approaching upper bound of 1
+   gaslat_l approaching upper bound of 1
+   gasmed_l approaching upper bound of 1
+   glmax1_l approaching upper bound of 1
+   glmax2_l approaching upper bound of 1
+   glmed1_l approaching upper bound of 1
+   glmed2_l approaching upper bound of 1
+   glmed3_l approaching upper bound of 1
+   glmin1_l approaching upper bound of 1
+   glmin2_l approaching upper bound of 1
+   glmin3_l approaching upper bound of 1
+   perbrev_l approaching upper bound of 1
+   perlong_l approaching upper bound of 1
+   piri_l approaching upper bound of 1
+   recfem_l approaching upper bound of 1
+   soleus_l approaching upper bound of 1
+   tfl_l approaching upper bound of 1
+   tibpost_l approaching upper bound of 1
+
+[2022-01-16 23:17:13.796] [cout] [info] time = 0.69 Performance = 797005. Constraint violation = 0.0760653
+[2022-01-16 23:17:15.049] [cout] [info] time = 0.7 Performance = 40385.0 Constraint violation = 2.02894e-08
+[2022-01-16 23:17:18.602] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Maximum iterations exceeded (status -1)
+[2022-01-16 23:17:18.602] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:17:18.602] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.71.
+[2022-01-16 23:17:18.602] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   recfem_r approaching upper bound of 1
+   sart_r approaching upper bound of 1
+   fdl_l approaching upper bound of 1
+   fhl_l approaching upper bound of 1
+   gaslat_l approaching upper bound of 1
+   gasmed_l approaching upper bound of 1
+   perbrev_l approaching upper bound of 1
+   perlong_l approaching upper bound of 1
+   soleus_l approaching upper bound of 1
+   tibpost_l approaching upper bound of 1
+
+[2022-01-16 23:17:18.602] [cout] [info] time = 0.71 Performance = 224863. Constraint violation = 5.59326
+[2022-01-16 23:17:19.250] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Restoration failed (status -2)
+[2022-01-16 23:17:19.250] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:17:19.250] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.72.
+[2022-01-16 23:17:19.250] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   gasmed_l approaching upper bound of 1
+
+[2022-01-16 23:17:19.250] [cout] [info] time = 0.72 Performance = 36183.4 Constraint violation = 1.48010e-12
+[2022-01-16 23:17:19.899] [cout] [info] time = 0.73 Performance = 27538.6 Constraint violation = 2.60047e-08
+[2022-01-16 23:17:21.389] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Restoration failed (status -2)
+[2022-01-16 23:17:21.389] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:17:21.389] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.74.
+[2022-01-16 23:17:21.389] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   iliacus_l approaching upper bound of 1
+   psoas_l approaching upper bound of 1
+   sart_l approaching upper bound of 1
+   tfl_l approaching upper bound of 1
+
+[2022-01-16 23:17:21.389] [cout] [info] time = 0.74 Performance = 191997. Constraint violation = 2.61962e-07
+[2022-01-16 23:17:21.906] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Restoration failed (status -2)
+[2022-01-16 23:17:21.906] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:17:21.906] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.75.
+[2022-01-16 23:17:21.906] [cout] [info] time = 0.75 Performance = 407900. Constraint violation = 6.35765e-08
+[2022-01-16 23:17:22.821] [cout] [info] time = 0.76 Performance = 138884. Constraint violation = 6.76091e-09
+[2022-01-16 23:17:24.459] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Restoration failed (status -2)
+[2022-01-16 23:17:24.459] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:17:24.459] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.77.
+[2022-01-16 23:17:24.459] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   addmagProx_r approaching upper bound of 1
+   psoas_r approaching upper bound of 1
+   recfem_r approaching upper bound of 1
+   sart_r approaching upper bound of 1
+
+[2022-01-16 23:17:24.459] [cout] [info] time = 0.77 Performance = 289783. Constraint violation = 1.26601e-12
+[2022-01-16 23:17:25.149] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Restoration failed (status -2)
+[2022-01-16 23:17:25.149] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:17:25.149] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.78.
+[2022-01-16 23:17:25.149] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   addmagIsch_r approaching upper bound of 1
+   glmax1_r approaching upper bound of 1
+   glmax2_r approaching upper bound of 1
+   glmed1_r approaching upper bound of 1
+   glmed2_r approaching upper bound of 1
+   glmin1_r approaching upper bound of 1
+   vaslat_r approaching upper bound of 1
+   vasmed_r approaching upper bound of 1
+
+[2022-01-16 23:17:25.150] [cout] [info] time = 0.78 Performance = 2.86737e+06 Constraint violation = 1.10032e-10
+[2022-01-16 23:17:26.056] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Restoration failed (status -2)
+[2022-01-16 23:17:26.056] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:17:26.056] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.79.
+[2022-01-16 23:17:26.056] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   addbrev_r approaching upper bound of 1
+   addlong_r approaching upper bound of 1
+   addmagMid_r approaching upper bound of 1
+   addmagProx_r approaching upper bound of 1
+   bfsh_r approaching upper bound of 1
+   grac_r approaching upper bound of 1
+   psoas_r approaching upper bound of 1
+   recfem_r approaching upper bound of 1
+   sart_r approaching upper bound of 1
+   tibant_r approaching upper bound of 1
+
+[2022-01-16 23:17:26.056] [cout] [info] time = 0.79 Performance = 670005. Constraint violation = 2.7997e-12
+[2022-01-16 23:17:26.747] [cout] [info] time = 0.8 Performance = 100579. Constraint violation = 3.3113e-08
+[2022-01-16 23:17:27.171] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Restoration failed (status -2)
+[2022-01-16 23:17:27.171] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:17:27.171] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.81.
+[2022-01-16 23:17:27.171] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   addmagDist_r approaching upper bound of 1
+   addmagIsch_r approaching upper bound of 1
+   addmagMid_r approaching upper bound of 1
+   bflh_r approaching upper bound of 1
+   glmax1_r approaching upper bound of 1
+   glmax2_r approaching upper bound of 1
+   glmax3_r approaching upper bound of 1
+   glmed1_r approaching upper bound of 1
+   glmed2_r approaching upper bound of 1
+   glmed3_r approaching upper bound of 1
+   glmin3_r approaching upper bound of 1
+   grac_r approaching upper bound of 1
+   piri_r approaching upper bound of 1
+   semimem_r approaching upper bound of 1
+   semiten_r approaching upper bound of 1
+   vasint_r approaching upper bound of 1
+   vaslat_r approaching upper bound of 1
+   vasmed_r approaching upper bound of 1
+   addbrev_l approaching upper bound of 1
+   addlong_l approaching upper bound of 1
+   addmagProx_l approaching upper bound of 1
+   bfsh_l approaching upper bound of 1
+   edl_l approaching upper bound of 1
+   ehl_l approaching upper bound of 1
+   glmin1_l approaching upper bound of 1
+   glmin2_l approaching upper bound of 1
+   grac_l approaching upper bound of 1
+   iliacus_l approaching upper bound of 1
+   psoas_l approaching upper bound of 1
+   sart_l approaching upper bound of 1
+   tfl_l approaching upper bound of 1
+   tibant_l approaching upper bound of 1
+
+[2022-01-16 23:17:27.171] [cout] [info] time = 0.81 Performance = 2.10522e+06 Constraint violation = 3.70560e-12
+[2022-01-16 23:17:31.723] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Maximum iterations exceeded (status -1)
+[2022-01-16 23:17:31.723] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:17:31.723] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.82.
+[2022-01-16 23:17:31.724] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   bfsh_r approaching upper bound of 1
+   edl_r approaching upper bound of 1
+   ehl_r approaching upper bound of 1
+   gaslat_r approaching upper bound of 1
+   glmin2_r approaching upper bound of 1
+   glmin3_r approaching upper bound of 1
+   iliacus_r approaching upper bound of 1
+   piri_r approaching upper bound of 1
+   psoas_r approaching upper bound of 1
+   sart_r approaching upper bound of 1
+   tfl_r approaching upper bound of 1
+   tibant_r approaching upper bound of 1
+
+[2022-01-16 23:17:31.724] [cout] [info] time = 0.82 Performance = 659057. Constraint violation = 0.333809
+[2022-01-16 23:17:33.335] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Restoration failed (status -2)
+[2022-01-16 23:17:33.335] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:17:33.335] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.83.
+[2022-01-16 23:17:33.335] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   iliacus_l approaching upper bound of 1
+   psoas_l approaching upper bound of 1
+
+[2022-01-16 23:17:33.335] [cout] [info] time = 0.83 Performance = 53416.0 Constraint violation = 2.19774e-12
+[2022-01-16 23:17:33.806] [cout] [info] time = 0.84 Performance = 24116.9 Constraint violation = 7.11056e-13
+[2022-01-16 23:17:34.358] [cout] [info] time = 0.85 Performance = 157961. Constraint violation = 7.35746e-08
+[2022-01-16 23:17:34.995] [cout] [info] time = 0.86 Performance = 11609.0 Constraint violation = 7.79587e-08
+[2022-01-16 23:17:36.804] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Restoration failed (status -2)
+[2022-01-16 23:17:36.805] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:17:36.805] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.87.
+[2022-01-16 23:17:36.805] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   tibant_r approaching upper bound of 1
+
+[2022-01-16 23:17:36.805] [cout] [info] time = 0.87 Performance = 306801. Constraint violation = 8.10545e-06
+[2022-01-16 23:17:37.379] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Restoration failed (status -2)
+[2022-01-16 23:17:37.379] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:17:37.379] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.88.
+[2022-01-16 23:17:37.379] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   iliacus_l approaching upper bound of 1
+   psoas_l approaching upper bound of 1
+   recfem_l approaching upper bound of 1
+   tfl_l approaching upper bound of 1
+
+[2022-01-16 23:17:37.379] [cout] [info] time = 0.88 Performance = 135291. Constraint violation = 4.9235e-08
+[2022-01-16 23:17:39.006] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Restoration failed (status -2)
+[2022-01-16 23:17:39.006] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:17:39.006] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.89.
+[2022-01-16 23:17:39.006] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   gaslat_r approaching upper bound of 1
+   glmed3_r approaching upper bound of 1
+   iliacus_r approaching upper bound of 1
+   piri_r approaching upper bound of 1
+   psoas_r approaching upper bound of 1
+   sart_r approaching upper bound of 1
+
+[2022-01-16 23:17:39.006] [cout] [info] time = 0.89 Performance = 28996.1 Constraint violation = 2.00424e-06
+[2022-01-16 23:17:43.367] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Maximum iterations exceeded (status -1)
+[2022-01-16 23:17:43.367] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:17:43.367] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.9.
+[2022-01-16 23:17:43.367] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   addbrev_l approaching upper bound of 1
+   addlong_l approaching upper bound of 1
+   addmagProx_l approaching upper bound of 1
+   glmin1_l approaching upper bound of 1
+   glmin2_l approaching upper bound of 1
+   iliacus_l approaching upper bound of 1
+   psoas_l approaching upper bound of 1
+   recfem_l approaching upper bound of 1
+   sart_l approaching upper bound of 1
+   tfl_l approaching upper bound of 1
+
+[2022-01-16 23:17:43.367] [cout] [info] time = 0.9 Performance = 71673.4 Constraint violation = 1.18626
+[2022-01-16 23:17:44.597] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Restoration failed (status -2)
+[2022-01-16 23:17:44.597] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:17:44.597] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.91.
+[2022-01-16 23:17:44.598] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   tfl_r approaching upper bound of 1
+
+[2022-01-16 23:17:44.598] [cout] [info] time = 0.91 Performance = 25700.1 Constraint violation = 2.17129e-12
+[2022-01-16 23:17:46.807] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Restoration failed (status -2)
+[2022-01-16 23:17:46.807] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:17:46.807] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.92.
+[2022-01-16 23:17:46.808] [cout] [info] time = 0.92 Performance = 31189.4 Constraint violation = 1.88931e-10
+[2022-01-16 23:17:51.465] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Maximum iterations exceeded (status -1)
+[2022-01-16 23:17:51.465] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:17:51.465] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.93.
+[2022-01-16 23:17:51.465] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   bflh_r approaching upper bound of 1
+   glmax1_r approaching upper bound of 1
+   glmax2_r approaching upper bound of 1
+   glmed1_r approaching upper bound of 1
+   glmed2_r approaching upper bound of 1
+   glmed3_r approaching upper bound of 1
+   glmin1_r approaching upper bound of 1
+   glmin2_r approaching upper bound of 1
+   glmin3_r approaching upper bound of 1
+   piri_r approaching upper bound of 1
+   semimem_r approaching upper bound of 1
+   semiten_r approaching upper bound of 1
+   tfl_r approaching upper bound of 1
+   addlong_l approaching upper bound of 1
+   iliacus_l approaching upper bound of 1
+   psoas_l approaching upper bound of 1
+   recfem_l approaching upper bound of 1
+
+[2022-01-16 23:17:51.465] [cout] [info] time = 0.93 Performance = 81514.5 Constraint violation = 1.82582e-12
+[2022-01-16 23:17:52.387] [cout] [info] time = 0.94 Performance = 20091.8 Constraint violation = 5.10960e-07
+[2022-01-16 23:17:53.610] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Restoration failed (status -2)
+[2022-01-16 23:17:53.610] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:17:53.610] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.95.
+[2022-01-16 23:17:53.610] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   glmed1_r approaching upper bound of 1
+   addbrev_l approaching upper bound of 1
+   addlong_l approaching upper bound of 1
+   addmagProx_l approaching upper bound of 1
+   piri_l approaching upper bound of 1
+   psoas_l approaching upper bound of 1
+   recfem_l approaching upper bound of 1
+   sart_l approaching upper bound of 1
+
+[2022-01-16 23:17:53.610] [cout] [info] time = 0.95 Performance = 14089.2 Constraint violation = 2.27894e-12
+[2022-01-16 23:17:54.368] [cout] [info] time = 0.96 Performance = 227813. Constraint violation = 9.15134e-12
+[2022-01-16 23:17:56.102] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Restoration failed (status -2)
+[2022-01-16 23:17:56.102] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:17:56.102] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.97.
+[2022-01-16 23:17:56.102] [cout] [info] time = 0.97 Performance = 91779.0 Constraint violation = 4.12991e-12
+[2022-01-16 23:17:58.414] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Restoration failed (status -2)
+[2022-01-16 23:17:58.414] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:17:58.414] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.98.
+[2022-01-16 23:17:58.414] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   glmed1_r approaching upper bound of 1
+   vaslat_r approaching upper bound of 1
+
+[2022-01-16 23:17:58.414] [cout] [info] time = 0.98 Performance = 499719. Constraint violation = 4.65571e-05
+[2022-01-16 23:17:58.959] [cout] [info] time = 0.99 Performance = 7395.52 Constraint violation = 1.94152e-12
+[2022-01-16 23:18:00.192] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Restoration failed (status -2)
+[2022-01-16 23:18:00.192] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:18:00.192] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 1.0.
+[2022-01-16 23:18:00.192] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   soleus_r approaching upper bound of 1
+   addmagProx_l approaching upper bound of 1
+   psoas_l approaching upper bound of 1
+   recfem_l approaching upper bound of 1
+   sart_l approaching upper bound of 1
+
+[2022-01-16 23:18:00.192] [cout] [info] time = 1.0 Performance = 36283.3 Constraint violation = 2.74303e-06
+[2022-01-16 23:18:00.196] [info] Printing results of investigation subject_scale_run to .
+[2022-01-16 23:21:49.959] [info] AbstractTool subject_scale_run loading model subject_run_adjusted.osim
+[2022-01-16 23:21:49.990] [info] Updating Model file from 30000 to latest format...
+[2022-01-16 23:21:50.065] [info] Loaded model subject_scale_run from file subject_run_adjusted.osim
+[2022-01-16 23:21:50.065] [warning] Couldn't find file 'r_pelvis.vtp'.
+[2022-01-16 23:21:50.066] [warning] Couldn't find file 'l_pelvis.vtp'.
+[2022-01-16 23:21:50.066] [warning] Couldn't find file 'sacrum.vtp'.
+[2022-01-16 23:21:50.066] [warning] Couldn't find file 'r_femur.vtp'.
+[2022-01-16 23:21:50.066] [warning] Couldn't find file 'r_tibia.vtp'.
+[2022-01-16 23:21:50.066] [warning] Couldn't find file 'r_fibula.vtp'.
+[2022-01-16 23:21:50.066] [warning] Couldn't find file 'r_patella.vtp'.
+[2022-01-16 23:21:50.066] [warning] Couldn't find file 'r_talus.vtp'.
+[2022-01-16 23:21:50.066] [warning] Couldn't find file 'r_foot.vtp'.
+[2022-01-16 23:21:50.066] [warning] Couldn't find file 'r_bofoot.vtp'.
+[2022-01-16 23:21:50.066] [warning] Couldn't find file 'l_femur.vtp'.
+[2022-01-16 23:21:50.067] [warning] Couldn't find file 'l_tibia.vtp'.
+[2022-01-16 23:21:50.067] [warning] Couldn't find file 'l_fibula.vtp'.
+[2022-01-16 23:21:50.067] [warning] Couldn't find file 'l_pat.vtp'.
+[2022-01-16 23:21:50.067] [warning] Couldn't find file 'l_talus.vtp'.
+[2022-01-16 23:21:50.067] [warning] Couldn't find file 'l_foot.vtp'.
+[2022-01-16 23:21:50.067] [warning] Couldn't find file 'l_bofoot.vtp'.
+[2022-01-16 23:21:50.067] [warning] Couldn't find file 'hat_spine.vtp'.
+[2022-01-16 23:21:50.067] [warning] Couldn't find file 'hat_jaw.vtp'.
+[2022-01-16 23:21:50.067] [warning] Couldn't find file 'hat_skull.vtp'.
+[2022-01-16 23:21:50.067] [warning] Couldn't find file 'hat_ribs_scap.vtp'.
+[2022-01-16 23:21:50.067] [warning] Couldn't find file 'humerus_rv.vtp'.
+[2022-01-16 23:21:50.067] [warning] Couldn't find file 'ulna_rv.vtp'.
+[2022-01-16 23:21:50.068] [warning] Couldn't find file 'radius_rv.vtp'.
+[2022-01-16 23:21:50.068] [warning] Couldn't find file 'pisiform_rvs.vtp'.
+[2022-01-16 23:21:50.068] [warning] Couldn't find file 'lunate_rvs.vtp'.
+[2022-01-16 23:21:50.068] [warning] Couldn't find file 'scaphoid_rvs.vtp'.
+[2022-01-16 23:21:50.068] [warning] Couldn't find file 'triquetrum_rvs.vtp'.
+[2022-01-16 23:21:50.068] [warning] Couldn't find file 'hamate_rvs.vtp'.
+[2022-01-16 23:21:50.068] [warning] Couldn't find file 'capitate_rvs.vtp'.
+[2022-01-16 23:21:50.068] [warning] Couldn't find file 'trapezoid_rvs.vtp'.
+[2022-01-16 23:21:50.068] [warning] Couldn't find file 'trapezium_rvs.vtp'.
+[2022-01-16 23:21:50.068] [warning] Couldn't find file 'metacarpal2_rvs.vtp'.
+[2022-01-16 23:21:50.068] [warning] Couldn't find file 'index_proximal_rvs.vtp'.
+[2022-01-16 23:21:50.068] [warning] Couldn't find file 'index_medial_rvs.vtp'.
+[2022-01-16 23:21:50.069] [warning] Couldn't find file 'index_distal_rvs.vtp'.
+[2022-01-16 23:21:50.069] [warning] Couldn't find file 'metacarpal3_rvs.vtp'.
+[2022-01-16 23:21:50.069] [warning] Couldn't find file 'middle_proximal_rvs.vtp'.
+[2022-01-16 23:21:50.069] [warning] Couldn't find file 'middle_medial_rvs.vtp'.
+[2022-01-16 23:21:50.069] [warning] Couldn't find file 'middle_distal_rvs.vtp'.
+[2022-01-16 23:21:50.069] [warning] Couldn't find file 'metacarpal4_rvs.vtp'.
+[2022-01-16 23:21:50.069] [warning] Couldn't find file 'ring_proximal_rvs.vtp'.
+[2022-01-16 23:21:50.069] [warning] Couldn't find file 'ring_medial_rvs.vtp'.
+[2022-01-16 23:21:50.069] [warning] Couldn't find file 'ring_distal_rvs.vtp'.
+[2022-01-16 23:21:50.069] [warning] Couldn't find file 'metacarpal5_rvs.vtp'.
+[2022-01-16 23:21:50.069] [warning] Couldn't find file 'little_proximal_rvs.vtp'.
+[2022-01-16 23:21:50.069] [warning] Couldn't find file 'little_medial_rvs.vtp'.
+[2022-01-16 23:21:50.069] [warning] Couldn't find file 'little_distal_rvs.vtp'.
+[2022-01-16 23:21:50.070] [warning] Couldn't find file 'metacarpal1_rvs.vtp'.
+[2022-01-16 23:21:50.070] [warning] Couldn't find file 'thumb_proximal_rvs.vtp'.
+[2022-01-16 23:21:50.070] [warning] Couldn't find file 'thumb_distal_rvs.vtp'.
+[2022-01-16 23:21:50.070] [warning] Couldn't find file 'humerus_lv.vtp'.
+[2022-01-16 23:21:50.070] [warning] Couldn't find file 'ulna_lv.vtp'.
+[2022-01-16 23:21:50.070] [warning] Couldn't find file 'radius_lv.vtp'.
+[2022-01-16 23:21:50.070] [warning] Couldn't find file 'pisiform_lvs.vtp'.
+[2022-01-16 23:21:50.070] [warning] Couldn't find file 'lunate_lvs.vtp'.
+[2022-01-16 23:21:50.070] [warning] Couldn't find file 'scaphoid_lvs.vtp'.
+[2022-01-16 23:21:50.070] [warning] Couldn't find file 'triquetrum_lvs.vtp'.
+[2022-01-16 23:21:50.070] [warning] Couldn't find file 'hamate_lvs.vtp'.
+[2022-01-16 23:21:50.071] [warning] Couldn't find file 'capitate_lvs.vtp'.
+[2022-01-16 23:21:50.071] [warning] Couldn't find file 'trapezoid_lvs.vtp'.
+[2022-01-16 23:21:50.071] [warning] Couldn't find file 'trapezium_lvs.vtp'.
+[2022-01-16 23:21:50.071] [warning] Couldn't find file 'metacarpal2_lvs.vtp'.
+[2022-01-16 23:21:50.071] [warning] Couldn't find file 'index_proximal_lvs.vtp'.
+[2022-01-16 23:21:50.071] [warning] Couldn't find file 'index_medial_lvs.vtp'.
+[2022-01-16 23:21:50.071] [warning] Couldn't find file 'index_distal_lvs.vtp'.
+[2022-01-16 23:21:50.071] [warning] Couldn't find file 'metacarpal3_lvs.vtp'.
+[2022-01-16 23:21:50.071] [warning] Couldn't find file 'middle_proximal_lvs.vtp'.
+[2022-01-16 23:21:50.071] [warning] Couldn't find file 'middle_medial_lvs.vtp'.
+[2022-01-16 23:21:50.071] [warning] Couldn't find file 'middle_distal_lvs.vtp'.
+[2022-01-16 23:21:50.071] [warning] Couldn't find file 'metacarpal4_lvs.vtp'.
+[2022-01-16 23:21:50.072] [warning] Couldn't find file 'ring_proximal_lvs.vtp'.
+[2022-01-16 23:21:50.072] [warning] Couldn't find file 'ring_medial_lvs.vtp'.
+[2022-01-16 23:21:50.072] [warning] Couldn't find file 'ring_distal_lvs.vtp'.
+[2022-01-16 23:21:50.072] [warning] Couldn't find file 'metacarpal5_lvs.vtp'.
+[2022-01-16 23:21:50.072] [warning] Couldn't find file 'little_proximal_lvs.vtp'.
+[2022-01-16 23:21:50.072] [warning] Couldn't find file 'little_medial_lvs.vtp'.
+[2022-01-16 23:21:50.072] [warning] Couldn't find file 'little_distal_lvs.vtp'.
+[2022-01-16 23:21:50.072] [warning] Couldn't find file 'metacarpal1_lvs.vtp'.
+[2022-01-16 23:21:50.072] [warning] Couldn't find file 'thumb_proximal_lvs.vtp'.
+[2022-01-16 23:21:50.072] [warning] Couldn't find file 'thumb_distal_lvs.vtp'.
+[2022-01-16 23:21:50.073] [info] ControllerSet 'Controllers' was renamed and is being reset to 'controllerset'.
+[2022-01-16 23:21:50.220] [info] Adding force object set from so_actuators.xml
+[2022-01-16 23:21:50.285] [info] ExternalLoads 'grf_run' was renamed and is being reset to 'externalloads'.
+[2022-01-16 23:21:50.402] [info] Old version storage/motion file encountered
+[2022-01-16 23:21:50.402] [info] Storage: read data file = grf_run.mot (nr=5091 nc=19)
+[2022-01-16 23:21:50.402] [info] .. assuming rotations in Degrees..
+[2022-01-16 23:21:50.446] [info] ExternalForce::RightFoot_ExternalForce Data source being set to grf_run.mot
+[2022-01-16 23:21:50.446] [info] ExternalForce::LeftFoot_ExternalForce Data source being set to grf_run.mot
+[2022-01-16 23:21:50.459] [info] Loading coordinates from file 'ik_output_run.mot'.
+[2022-01-16 23:21:50.459] [info] Storage: read data file = ik_output_run.mot (nr=510 nc=40)
+[2022-01-16 23:21:55.074] [info] Found 510 state vectors with time stamps ranging from 0.23 to 5.32.
+[2022-01-16 23:21:55.074] [info] Executing the analyses from 0.23 to 1.0...
+[2022-01-16 23:21:55.240] [info] Old version storage/motion file encountered
+[2022-01-16 23:21:55.240] [info] Storage: read data file = grf_run.mot (nr=5091 nc=19)
+[2022-01-16 23:21:55.241] [info] .. assuming rotations in Degrees..
+[2022-01-16 23:21:55.284] [info] ExternalForce::RightFoot_ExternalForce Data source being set to grf_run.mot
+[2022-01-16 23:21:55.284] [info] ExternalForce::LeftFoot_ExternalForce Data source being set to grf_run.mot
+[2022-01-16 23:21:55.354] [info] Old version storage/motion file encountered
+[2022-01-16 23:21:55.354] [info] Storage: read data file = grf_run.mot (nr=5091 nc=19)
+[2022-01-16 23:21:55.354] [info] .. assuming rotations in Degrees..
+[2022-01-16 23:21:55.395] [info] ExternalForce::RightFoot_ExternalForce Data source being set to grf_run.mot
+[2022-01-16 23:21:55.395] [info] ExternalForce::LeftFoot_ExternalForce Data source being set to grf_run.mot
+[2022-01-16 23:21:59.058] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Maximum iterations exceeded (status -1)
+[2022-01-16 23:21:59.059] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:21:59.059] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.23.
+[2022-01-16 23:21:59.059] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   glmax1_r approaching upper bound of 1
+   glmax2_r approaching upper bound of 1
+   glmed1_r approaching upper bound of 1
+   glmed2_r approaching upper bound of 1
+   glmed3_r approaching upper bound of 1
+   glmin1_r approaching upper bound of 1
+   glmin2_r approaching upper bound of 1
+   glmin3_r approaching upper bound of 1
+   piri_r approaching upper bound of 1
+   sart_r approaching upper bound of 1
+   semimem_r approaching upper bound of 1
+   tfl_r approaching upper bound of 1
+   addbrev_l approaching upper bound of 1
+   addlong_l approaching upper bound of 1
+   bfsh_l approaching upper bound of 1
+   gaslat_l approaching upper bound of 1
+   gasmed_l approaching upper bound of 1
+   glmin1_l approaching upper bound of 1
+   glmin2_l approaching upper bound of 1
+   glmin3_l approaching upper bound of 1
+   iliacus_l approaching upper bound of 1
+   psoas_l approaching upper bound of 1
+   recfem_l approaching upper bound of 1
+   sart_l approaching upper bound of 1
+   tfl_l approaching upper bound of 1
+
+[2022-01-16 23:21:59.059] [cout] [info] time = 0.23 Performance = 6.91966e+07 Constraint violation = 325.133
+[2022-01-16 23:21:59.062] [info] Bounds for 'addbrev_r': 0.01 to 1.0.
+[2022-01-16 23:21:59.062] [info] Bounds for 'addlong_r': 0.01 to 1.0.
+[2022-01-16 23:21:59.062] [info] Bounds for 'addmagDist_r': 0.01 to 1.0.
+[2022-01-16 23:21:59.062] [info] Bounds for 'addmagIsch_r': 0.01 to 1.0.
+[2022-01-16 23:21:59.062] [info] Bounds for 'addmagMid_r': 0.01 to 1.0.
+[2022-01-16 23:21:59.062] [info] Bounds for 'addmagProx_r': 0.01 to 1.0.
+[2022-01-16 23:21:59.062] [info] Bounds for 'bflh_r': 0.01 to 1.0.
+[2022-01-16 23:21:59.062] [info] Bounds for 'bfsh_r': 0.01 to 1.0.
+[2022-01-16 23:21:59.062] [info] Bounds for 'edl_r': 0.01 to 1.0.
+[2022-01-16 23:21:59.062] [info] Bounds for 'ehl_r': 0.01 to 1.0.
+[2022-01-16 23:21:59.062] [info] Bounds for 'fdl_r': 0.01 to 1.0.
+[2022-01-16 23:21:59.062] [info] Bounds for 'fhl_r': 0.01 to 1.0.
+[2022-01-16 23:21:59.062] [info] Bounds for 'gaslat_r': 0.01 to 1.0.
+[2022-01-16 23:21:59.062] [info] Bounds for 'gasmed_r': 0.01 to 1.0.
+[2022-01-16 23:21:59.062] [info] Bounds for 'glmax1_r': 0.01 to 1.0.
+[2022-01-16 23:21:59.062] [info] Bounds for 'glmax2_r': 0.01 to 1.0.
+[2022-01-16 23:21:59.062] [info] Bounds for 'glmax3_r': 0.01 to 1.0.
+[2022-01-16 23:21:59.062] [info] Bounds for 'glmed1_r': 0.01 to 1.0.
+[2022-01-16 23:21:59.062] [info] Bounds for 'glmed2_r': 0.01 to 1.0.
+[2022-01-16 23:21:59.062] [info] Bounds for 'glmed3_r': 0.01 to 1.0.
+[2022-01-16 23:21:59.062] [info] Bounds for 'glmin1_r': 0.01 to 1.0.
+[2022-01-16 23:21:59.062] [info] Bounds for 'glmin2_r': 0.01 to 1.0.
+[2022-01-16 23:21:59.062] [info] Bounds for 'glmin3_r': 0.01 to 1.0.
+[2022-01-16 23:21:59.062] [info] Bounds for 'grac_r': 0.01 to 1.0.
+[2022-01-16 23:21:59.062] [info] Bounds for 'iliacus_r': 0.01 to 1.0.
+[2022-01-16 23:21:59.062] [info] Bounds for 'perbrev_r': 0.01 to 1.0.
+[2022-01-16 23:21:59.062] [info] Bounds for 'perlong_r': 0.01 to 1.0.
+[2022-01-16 23:21:59.062] [info] Bounds for 'piri_r': 0.01 to 1.0.
+[2022-01-16 23:21:59.062] [info] Bounds for 'psoas_r': 0.01 to 1.0.
+[2022-01-16 23:21:59.062] [info] Bounds for 'recfem_r': 0.01 to 1.0.
+[2022-01-16 23:21:59.062] [info] Bounds for 'sart_r': 0.01 to 1.0.
+[2022-01-16 23:21:59.062] [info] Bounds for 'semimem_r': 0.01 to 1.0.
+[2022-01-16 23:21:59.062] [info] Bounds for 'semiten_r': 0.01 to 1.0.
+[2022-01-16 23:21:59.062] [info] Bounds for 'soleus_r': 0.01 to 1.0.
+[2022-01-16 23:21:59.062] [info] Bounds for 'tfl_r': 0.01 to 1.0.
+[2022-01-16 23:21:59.062] [info] Bounds for 'tibant_r': 0.01 to 1.0.
+[2022-01-16 23:21:59.062] [info] Bounds for 'tibpost_r': 0.01 to 1.0.
+[2022-01-16 23:21:59.062] [info] Bounds for 'vasint_r': 0.01 to 1.0.
+[2022-01-16 23:21:59.062] [info] Bounds for 'vaslat_r': 0.01 to 1.0.
+[2022-01-16 23:21:59.062] [info] Bounds for 'vasmed_r': 0.01 to 1.0.
+[2022-01-16 23:21:59.062] [info] Bounds for 'addbrev_l': 0.01 to 1.0.
+[2022-01-16 23:21:59.062] [info] Bounds for 'addlong_l': 0.01 to 1.0.
+[2022-01-16 23:21:59.062] [info] Bounds for 'addmagDist_l': 0.01 to 1.0.
+[2022-01-16 23:21:59.062] [info] Bounds for 'addmagIsch_l': 0.01 to 1.0.
+[2022-01-16 23:21:59.062] [info] Bounds for 'addmagMid_l': 0.01 to 1.0.
+[2022-01-16 23:21:59.062] [info] Bounds for 'addmagProx_l': 0.01 to 1.0.
+[2022-01-16 23:21:59.062] [info] Bounds for 'bflh_l': 0.01 to 1.0.
+[2022-01-16 23:21:59.062] [info] Bounds for 'bfsh_l': 0.01 to 1.0.
+[2022-01-16 23:21:59.062] [info] Bounds for 'edl_l': 0.01 to 1.0.
+[2022-01-16 23:21:59.062] [info] Bounds for 'ehl_l': 0.01 to 1.0.
+[2022-01-16 23:21:59.062] [info] Bounds for 'fdl_l': 0.01 to 1.0.
+[2022-01-16 23:21:59.062] [info] Bounds for 'fhl_l': 0.01 to 1.0.
+[2022-01-16 23:21:59.063] [info] Bounds for 'gaslat_l': 0.01 to 1.0.
+[2022-01-16 23:21:59.063] [info] Bounds for 'gasmed_l': 0.01 to 1.0.
+[2022-01-16 23:21:59.063] [info] Bounds for 'glmax1_l': 0.01 to 1.0.
+[2022-01-16 23:21:59.063] [info] Bounds for 'glmax2_l': 0.01 to 1.0.
+[2022-01-16 23:21:59.063] [info] Bounds for 'glmax3_l': 0.01 to 1.0.
+[2022-01-16 23:21:59.063] [info] Bounds for 'glmed1_l': 0.01 to 1.0.
+[2022-01-16 23:21:59.063] [info] Bounds for 'glmed2_l': 0.01 to 1.0.
+[2022-01-16 23:21:59.063] [info] Bounds for 'glmed3_l': 0.01 to 1.0.
+[2022-01-16 23:21:59.063] [info] Bounds for 'glmin1_l': 0.01 to 1.0.
+[2022-01-16 23:21:59.063] [info] Bounds for 'glmin2_l': 0.01 to 1.0.
+[2022-01-16 23:21:59.063] [info] Bounds for 'glmin3_l': 0.01 to 1.0.
+[2022-01-16 23:21:59.063] [info] Bounds for 'grac_l': 0.01 to 1.0.
+[2022-01-16 23:21:59.063] [info] Bounds for 'iliacus_l': 0.01 to 1.0.
+[2022-01-16 23:21:59.063] [info] Bounds for 'perbrev_l': 0.01 to 1.0.
+[2022-01-16 23:21:59.063] [info] Bounds for 'perlong_l': 0.01 to 1.0.
+[2022-01-16 23:21:59.063] [info] Bounds for 'piri_l': 0.01 to 1.0.
+[2022-01-16 23:21:59.063] [info] Bounds for 'psoas_l': 0.01 to 1.0.
+[2022-01-16 23:21:59.063] [info] Bounds for 'recfem_l': 0.01 to 1.0.
+[2022-01-16 23:21:59.063] [info] Bounds for 'sart_l': 0.01 to 1.0.
+[2022-01-16 23:21:59.063] [info] Bounds for 'semimem_l': 0.01 to 1.0.
+[2022-01-16 23:21:59.063] [info] Bounds for 'semiten_l': 0.01 to 1.0.
+[2022-01-16 23:21:59.063] [info] Bounds for 'soleus_l': 0.01 to 1.0.
+[2022-01-16 23:21:59.063] [info] Bounds for 'tfl_l': 0.01 to 1.0.
+[2022-01-16 23:21:59.063] [info] Bounds for 'tibant_l': 0.01 to 1.0.
+[2022-01-16 23:21:59.063] [info] Bounds for 'tibpost_l': 0.01 to 1.0.
+[2022-01-16 23:21:59.063] [info] Bounds for 'vasint_l': 0.01 to 1.0.
+[2022-01-16 23:21:59.063] [info] Bounds for 'vaslat_l': 0.01 to 1.0.
+[2022-01-16 23:21:59.063] [info] Bounds for 'vasmed_l': 0.01 to 1.0.
+[2022-01-16 23:21:59.063] [info] Bounds for 'lumbar_ext': -inf to inf.
+[2022-01-16 23:21:59.063] [info] Bounds for 'lumbar_bend': -inf to inf.
+[2022-01-16 23:21:59.063] [info] Bounds for 'lumbar_rot': -inf to inf.
+[2022-01-16 23:21:59.063] [info] Bounds for 'shoulder_flex_r': -inf to inf.
+[2022-01-16 23:21:59.063] [info] Bounds for 'shoulder_add_r': -inf to inf.
+[2022-01-16 23:21:59.063] [info] Bounds for 'shoulder_rot_r': -inf to inf.
+[2022-01-16 23:21:59.063] [info] Bounds for 'elbow_flex_r': -inf to inf.
+[2022-01-16 23:21:59.063] [info] Bounds for 'pro_sup_r': -inf to inf.
+[2022-01-16 23:21:59.063] [info] Bounds for 'wrist_flex_r': -inf to inf.
+[2022-01-16 23:21:59.063] [info] Bounds for 'wrist_dev_r': -inf to inf.
+[2022-01-16 23:21:59.063] [info] Bounds for 'shoulder_flex_l': -inf to inf.
+[2022-01-16 23:21:59.063] [info] Bounds for 'shoulder_add_l': -inf to inf.
+[2022-01-16 23:21:59.063] [info] Bounds for 'shoulder_rot_l': -inf to inf.
+[2022-01-16 23:21:59.063] [info] Bounds for 'elbow_flex_l': -inf to inf.
+[2022-01-16 23:21:59.063] [info] Bounds for 'pro_sup_l': -inf to inf.
+[2022-01-16 23:21:59.063] [info] Bounds for 'wrist_flex_l': -inf to inf.
+[2022-01-16 23:21:59.063] [info] Bounds for 'wrist_dev_l': -inf to inf.
+[2022-01-16 23:21:59.063] [info] Bounds for 'FX': -inf to inf.
+[2022-01-16 23:21:59.063] [info] Bounds for 'FY': -inf to inf.
+[2022-01-16 23:21:59.063] [info] Bounds for 'FZ': -inf to inf.
+[2022-01-16 23:21:59.063] [info] Bounds for 'MX': -inf to inf.
+[2022-01-16 23:21:59.063] [info] Bounds for 'MY': -inf to inf.
+[2022-01-16 23:21:59.063] [info] Bounds for 'MZ': -inf to inf.
+[2022-01-16 23:21:59.063] [info] Bounds for 'hip_flexion_r_reserve': -inf to inf.
+[2022-01-16 23:21:59.063] [info] Bounds for 'hip_adduction_r_reserve': -inf to inf.
+[2022-01-16 23:21:59.063] [info] Bounds for 'hip_rotation_r_reserve': -inf to inf.
+[2022-01-16 23:21:59.063] [info] Bounds for 'knee_angle_r_reserve': -inf to inf.
+[2022-01-16 23:21:59.063] [info] Bounds for 'ankle_angle_r_reserve': -inf to inf.
+[2022-01-16 23:21:59.063] [info] Bounds for 'hip_flexion_l_reserve': -inf to inf.
+[2022-01-16 23:21:59.063] [info] Bounds for 'hip_adduction_l_reserve': -inf to inf.
+[2022-01-16 23:21:59.063] [info] Bounds for 'hip_rotation_l_reserve': -inf to inf.
+[2022-01-16 23:21:59.063] [info] Bounds for 'knee_angle_l_reserve': -inf to inf.
+[2022-01-16 23:21:59.063] [info] Bounds for 'ankle_angle_l_reserve': -inf to inf.
+[2022-01-16 23:22:01.174] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Restoration failed (status -2)
+[2022-01-16 23:22:01.174] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:22:01.174] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.24.
+[2022-01-16 23:22:01.175] [cout] [info] time = 0.24 Performance = 83482.6 Constraint violation = 3.79201e-07
+[2022-01-16 23:22:02.473] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Restoration failed (status -2)
+[2022-01-16 23:22:02.473] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:22:02.473] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.25.
+[2022-01-16 23:22:02.473] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   glmed1_r approaching upper bound of 1
+
+[2022-01-16 23:22:02.473] [cout] [info] time = 0.25 Performance = 127040. Constraint violation = 3.11266e-05
+[2022-01-16 23:22:03.303] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Restoration failed (status -2)
+[2022-01-16 23:22:03.303] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:22:03.303] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.26.
+[2022-01-16 23:22:03.303] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   glmax1_r approaching upper bound of 1
+   glmax2_r approaching upper bound of 1
+   glmed1_r approaching upper bound of 1
+   glmed2_r approaching upper bound of 1
+   glmed3_r approaching upper bound of 1
+   piri_r approaching upper bound of 1
+   addlong_l approaching upper bound of 1
+   iliacus_l approaching upper bound of 1
+   psoas_l approaching upper bound of 1
+   recfem_l approaching upper bound of 1
+   sart_l approaching upper bound of 1
+
+[2022-01-16 23:22:03.303] [cout] [info] time = 0.26 Performance = 204539. Constraint violation = 1.80488e-07
+[2022-01-16 23:22:04.706] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Maximum iterations exceeded (status -1)
+[2022-01-16 23:22:04.706] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:22:04.706] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.27.
+[2022-01-16 23:22:04.706] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   glmed1_r approaching upper bound of 1
+
+[2022-01-16 23:22:04.706] [cout] [info] time = 0.27 Performance = 332699. Constraint violation = 3.9892e-12
+[2022-01-16 23:22:06.198] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Restoration failed (status -2)
+[2022-01-16 23:22:06.198] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:22:06.198] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.28.
+[2022-01-16 23:22:06.198] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   addbrev_l approaching upper bound of 1
+   addlong_l approaching upper bound of 1
+   addmagProx_l approaching upper bound of 1
+   glmed3_l approaching upper bound of 1
+   piri_l approaching upper bound of 1
+   psoas_l approaching upper bound of 1
+   recfem_l approaching upper bound of 1
+   sart_l approaching upper bound of 1
+
+[2022-01-16 23:22:06.198] [cout] [info] time = 0.28 Performance = 324205. Constraint violation = 8.98839e-05
+[2022-01-16 23:22:07.620] [cout] [info] time = 0.29 Performance = 108225. Constraint violation = 5.6687e-12
+[2022-01-16 23:22:08.842] [cout] [info] time = 0.3 Performance = 72129.2 Constraint violation = 9.19828e-08
+[2022-01-16 23:22:09.870] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Restoration failed (status -2)
+[2022-01-16 23:22:09.870] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:22:09.870] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.31.
+[2022-01-16 23:22:09.870] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   addmagDist_r approaching upper bound of 1
+   addmagIsch_r approaching upper bound of 1
+   addmagMid_r approaching upper bound of 1
+   glmax1_r approaching upper bound of 1
+   glmax2_r approaching upper bound of 1
+   glmax3_r approaching upper bound of 1
+   glmed1_r approaching upper bound of 1
+   soleus_r approaching upper bound of 1
+   vasint_r approaching upper bound of 1
+   vaslat_r approaching upper bound of 1
+   vasmed_r approaching upper bound of 1
+   addmagProx_l approaching upper bound of 1
+   psoas_l approaching upper bound of 1
+   recfem_l approaching upper bound of 1
+   sart_l approaching upper bound of 1
+
+[2022-01-16 23:22:09.870] [cout] [info] time = 0.31 Performance = 91337.5 Constraint violation = 2.02557e-07
+[2022-01-16 23:22:10.987] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Restoration failed (status -2)
+[2022-01-16 23:22:10.987] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:22:10.987] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.32.
+[2022-01-16 23:22:10.987] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   glmax1_r approaching upper bound of 1
+   glmax2_r approaching upper bound of 1
+   glmed1_r approaching upper bound of 1
+   glmed2_r approaching upper bound of 1
+   glmed3_r approaching upper bound of 1
+   glmin1_r approaching upper bound of 1
+   glmin2_r approaching upper bound of 1
+   glmin3_r approaching upper bound of 1
+   piri_r approaching upper bound of 1
+   tfl_r approaching upper bound of 1
+
+[2022-01-16 23:22:10.987] [cout] [info] time = 0.32 Performance = 77004.6 Constraint violation = 0.000908726
+[2022-01-16 23:22:11.443] [cout] [info] time = 0.33 Performance = 120085. Constraint violation = 1.03194e-08
+[2022-01-16 23:22:15.751] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Maximum iterations exceeded (status -1)
+[2022-01-16 23:22:15.751] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:22:15.751] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.34.
+[2022-01-16 23:22:15.751] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   fdl_r approaching upper bound of 1
+   fhl_r approaching upper bound of 1
+   gaslat_r approaching upper bound of 1
+   gasmed_r approaching upper bound of 1
+   glmax1_r approaching upper bound of 1
+   glmax2_r approaching upper bound of 1
+   glmed1_r approaching upper bound of 1
+   glmed2_r approaching upper bound of 1
+   glmed3_r approaching upper bound of 1
+   glmin1_r approaching upper bound of 1
+   glmin2_r approaching upper bound of 1
+   glmin3_r approaching upper bound of 1
+   iliacus_r approaching upper bound of 1
+   perbrev_r approaching upper bound of 1
+   perlong_r approaching upper bound of 1
+   soleus_r approaching upper bound of 1
+   tfl_r approaching upper bound of 1
+   tibpost_r approaching upper bound of 1
+
+[2022-01-16 23:22:15.751] [cout] [info] time = 0.34 Performance = 296138. Constraint violation = 290.156
+[2022-01-16 23:22:16.293] [cout] [info] time = 0.35 Performance = 7057.13 Constraint violation = 2.14197e-09
+[2022-01-16 23:22:20.548] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Maximum iterations exceeded (status -1)
+[2022-01-16 23:22:20.548] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:22:20.548] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.36.
+[2022-01-16 23:22:20.548] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   fdl_r approaching upper bound of 1
+   fhl_r approaching upper bound of 1
+   gaslat_r approaching upper bound of 1
+   gasmed_r approaching upper bound of 1
+   perbrev_r approaching upper bound of 1
+   perlong_r approaching upper bound of 1
+   soleus_r approaching upper bound of 1
+   tibpost_r approaching upper bound of 1
+   addmagProx_l approaching upper bound of 1
+   psoas_l approaching upper bound of 1
+   recfem_l approaching upper bound of 1
+   sart_l approaching upper bound of 1
+
+[2022-01-16 23:22:20.548] [cout] [info] time = 0.36 Performance = 838015. Constraint violation = 3.89951e-12
+[2022-01-16 23:22:22.811] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Maximum iterations exceeded (status -1)
+[2022-01-16 23:22:22.811] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:22:22.812] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.37.
+[2022-01-16 23:22:22.812] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   fdl_r approaching upper bound of 1
+   fhl_r approaching upper bound of 1
+   gaslat_r approaching upper bound of 1
+   gasmed_r approaching upper bound of 1
+   iliacus_r approaching upper bound of 1
+   perbrev_r approaching upper bound of 1
+   perlong_r approaching upper bound of 1
+   psoas_r approaching upper bound of 1
+   soleus_r approaching upper bound of 1
+   tibpost_r approaching upper bound of 1
+
+[2022-01-16 23:22:22.812] [cout] [info] time = 0.37 Performance = 439877. Constraint violation = 58.3629
+[2022-01-16 23:22:23.532] [cout] [info] time = 0.38 Performance = 3722.43 Constraint violation = 1.36688e-08
+[2022-01-16 23:22:24.934] [cout] [info] time = 0.39 Performance = 70693.4 Constraint violation = 1.35836e-08
+[2022-01-16 23:22:25.448] [cout] [info] time = 0.4 Performance = 305931. Constraint violation = 1.55077e-12
+[2022-01-16 23:22:25.927] [cout] [info] time = 0.41 Performance = 3601.25 Constraint violation = 3.2593e-09
+[2022-01-16 23:22:26.359] [cout] [info] time = 0.42 Performance = 27972.9 Constraint violation = 1.17942e-05
+[2022-01-16 23:22:27.188] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Restoration failed (status -2)
+[2022-01-16 23:22:27.188] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:22:27.188] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.43.
+[2022-01-16 23:22:27.188] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   addmagProx_l approaching upper bound of 1
+   bfsh_l approaching upper bound of 1
+   psoas_l approaching upper bound of 1
+   recfem_l approaching upper bound of 1
+   sart_l approaching upper bound of 1
+   tibant_l approaching upper bound of 1
+
+[2022-01-16 23:22:27.188] [cout] [info] time = 0.43 Performance = 210176. Constraint violation = 4.2895e-05
+[2022-01-16 23:22:30.161] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Maximum iterations exceeded (status -1)
+[2022-01-16 23:22:30.161] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:22:30.161] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.44.
+[2022-01-16 23:22:30.161] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   addbrev_r approaching upper bound of 1
+   addlong_r approaching upper bound of 1
+   bfsh_r approaching upper bound of 1
+   edl_r approaching upper bound of 1
+   ehl_r approaching upper bound of 1
+   glmin1_r approaching upper bound of 1
+   glmin2_r approaching upper bound of 1
+   grac_r approaching upper bound of 1
+   iliacus_r approaching upper bound of 1
+   psoas_r approaching upper bound of 1
+   sart_r approaching upper bound of 1
+   tfl_r approaching upper bound of 1
+   tibant_r approaching upper bound of 1
+   addmagIsch_l approaching upper bound of 1
+   bflh_l approaching upper bound of 1
+   glmax1_l approaching upper bound of 1
+   glmax2_l approaching upper bound of 1
+   glmax3_l approaching upper bound of 1
+   glmed1_l approaching upper bound of 1
+   glmed2_l approaching upper bound of 1
+   glmed3_l approaching upper bound of 1
+   glmin1_l approaching upper bound of 1
+   glmin2_l approaching upper bound of 1
+   glmin3_l approaching upper bound of 1
+   piri_l approaching upper bound of 1
+   semimem_l approaching upper bound of 1
+   vasint_l approaching upper bound of 1
+   vaslat_l approaching upper bound of 1
+   vasmed_l approaching upper bound of 1
+
+[2022-01-16 23:22:30.161] [cout] [info] time = 0.44 Performance = 1.37663e+06 Constraint violation = 0.000569661
+[2022-01-16 23:22:30.770] [cout] [info] time = 0.45 Performance = 158051. Constraint violation = 1.51182e-12
+[2022-01-16 23:22:33.833] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Maximum iterations exceeded (status -1)
+[2022-01-16 23:22:33.833] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:22:33.833] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.46.
+[2022-01-16 23:22:33.833] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   bfsh_l approaching upper bound of 1
+   edl_l approaching upper bound of 1
+   ehl_l approaching upper bound of 1
+   glmed2_l approaching upper bound of 1
+   glmed3_l approaching upper bound of 1
+   glmin1_l approaching upper bound of 1
+   glmin2_l approaching upper bound of 1
+   glmin3_l approaching upper bound of 1
+   iliacus_l approaching upper bound of 1
+   piri_l approaching upper bound of 1
+   psoas_l approaching upper bound of 1
+   sart_l approaching upper bound of 1
+   tfl_l approaching upper bound of 1
+   tibant_l approaching upper bound of 1
+
+[2022-01-16 23:22:33.833] [cout] [info] time = 0.46 Performance = 838700. Constraint violation = 0.000101422
+[2022-01-16 23:22:37.781] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Maximum iterations exceeded (status -1)
+[2022-01-16 23:22:37.781] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:22:37.781] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.47.
+[2022-01-16 23:22:37.781] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   addbrev_r approaching upper bound of 1
+   addlong_r approaching upper bound of 1
+   addmagProx_r approaching upper bound of 1
+   bfsh_r approaching upper bound of 1
+   edl_r approaching upper bound of 1
+   ehl_r approaching upper bound of 1
+   grac_r approaching upper bound of 1
+   iliacus_r approaching upper bound of 1
+   psoas_r approaching upper bound of 1
+   sart_r approaching upper bound of 1
+   tfl_r approaching upper bound of 1
+   tibant_r approaching upper bound of 1
+   addmagDist_l approaching upper bound of 1
+   addmagIsch_l approaching upper bound of 1
+   addmagMid_l approaching upper bound of 1
+   bflh_l approaching upper bound of 1
+   glmax1_l approaching upper bound of 1
+   glmax2_l approaching upper bound of 1
+   glmax3_l approaching upper bound of 1
+   glmed2_l approaching upper bound of 1
+   glmed3_l approaching upper bound of 1
+   glmin3_l approaching upper bound of 1
+   grac_l approaching upper bound of 1
+   piri_l approaching upper bound of 1
+   semimem_l approaching upper bound of 1
+   semiten_l approaching upper bound of 1
+
+[2022-01-16 23:22:37.781] [cout] [info] time = 0.47 Performance = 724183. Constraint violation = 4390.96
+[2022-01-16 23:22:38.513] [cout] [info] time = 0.48 Performance = 47907.3 Constraint violation = 1.13428e-12
+[2022-01-16 23:22:39.220] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Restoration failed (status -2)
+[2022-01-16 23:22:39.220] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:22:39.220] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.49.
+[2022-01-16 23:22:39.220] [warning] The model appears unsuitable for static optimization.
+Try appending the model with additional force(s) or locking joint(s) to reduce the following acceleration constraint violation(s):
+   pelvis_tilt: constraint violation = -3.5486e-06
+   pelvis_tilt: constraint violation = -2.99862e-06
+   pelvis_tilt: constraint violation = -4.04926e-06
+   pelvis_tilt: constraint violation = 1.05831e-05
+   pelvis_tilt: constraint violation = 3.88194e-06
+   pelvis_tilt: constraint violation = 8.86593e-06
+   pelvis_tilt: constraint violation = 1.01466e-05
+   pelvis_tilt: constraint violation = -4.48134e-06
+   pelvis_tilt: constraint violation = 9.59363e-06
+   pelvis_tilt: constraint violation = 3.28088e-06
+   pelvis_tilt: constraint violation = 4.27607e-06
+   pelvis_tilt: constraint violation = -5.45275e-06
+   pelvis_tilt: constraint violation = -1.93579e-06
+   pelvis_tilt: constraint violation = -1.24577e-06
+   pelvis_tilt: constraint violation = -5.16461e-05
+   pelvis_tilt: constraint violation = 9.80949e-06
+   pelvis_tilt: constraint violation = 3.07969e-06
+
+[2022-01-16 23:22:39.220] [cout] [info] time = 0.49 Performance = 158355. Constraint violation = 5.74356e-05
+[2022-01-16 23:22:40.343] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Restoration failed (status -2)
+[2022-01-16 23:22:40.343] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:22:40.343] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.5.
+[2022-01-16 23:22:40.343] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   iliacus_r approaching upper bound of 1
+   psoas_r approaching upper bound of 1
+   glmax1_l approaching upper bound of 1
+   glmax2_l approaching upper bound of 1
+   glmed3_l approaching upper bound of 1
+
+[2022-01-16 23:22:40.343] [cout] [info] time = 0.5 Performance = 14496.8 Constraint violation = 1.10805e-12
+[2022-01-16 23:22:41.503] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Restoration failed (status -2)
+[2022-01-16 23:22:41.503] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:22:41.503] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.51.
+[2022-01-16 23:22:41.504] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   iliacus_r approaching upper bound of 1
+   psoas_r approaching upper bound of 1
+
+[2022-01-16 23:22:41.504] [cout] [info] time = 0.51 Performance = 161982. Constraint violation = 3.98048e-07
+[2022-01-16 23:22:43.282] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Restoration failed (status -2)
+[2022-01-16 23:22:43.282] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:22:43.283] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.52.
+[2022-01-16 23:22:43.283] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   iliacus_r approaching upper bound of 1
+   psoas_r approaching upper bound of 1
+   glmed3_l approaching upper bound of 1
+   tibant_l approaching upper bound of 1
+
+[2022-01-16 23:22:43.283] [cout] [info] time = 0.52 Performance = 72740.0 Constraint violation = 1.43172e-12
+[2022-01-16 23:22:46.234] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Maximum iterations exceeded (status -1)
+[2022-01-16 23:22:46.234] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:22:46.234] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.53.
+[2022-01-16 23:22:46.234] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   recfem_r approaching upper bound of 1
+
+[2022-01-16 23:22:46.234] [cout] [info] time = 0.53 Performance = 201423. Constraint violation = 8.92207e-13
+[2022-01-16 23:22:47.362] [cout] [info] time = 0.54 Performance = 11098.6 Constraint violation = 1.57075e-10
+[2022-01-16 23:22:48.266] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Restoration failed (status -2)
+[2022-01-16 23:22:48.266] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:22:48.266] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.55.
+[2022-01-16 23:22:48.267] [cout] [info] time = 0.55 Performance = 41909.9 Constraint violation = 8.85146e-13
+[2022-01-16 23:22:49.124] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Restoration failed (status -2)
+[2022-01-16 23:22:49.124] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:22:49.124] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.56.
+[2022-01-16 23:22:49.124] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   iliacus_r approaching upper bound of 1
+   psoas_r approaching upper bound of 1
+   recfem_r approaching upper bound of 1
+   tfl_r approaching upper bound of 1
+
+[2022-01-16 23:22:49.124] [cout] [info] time = 0.56 Performance = 152583. Constraint violation = 7.25871e-06
+[2022-01-16 23:22:50.530] [cout] [info] time = 0.57 Performance = 28553.8 Constraint violation = 8.94811e-07
+[2022-01-16 23:22:51.862] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Restoration failed (status -2)
+[2022-01-16 23:22:51.862] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:22:51.862] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.58.
+[2022-01-16 23:22:51.862] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   addlong_r approaching upper bound of 1
+   iliacus_r approaching upper bound of 1
+   psoas_r approaching upper bound of 1
+   recfem_r approaching upper bound of 1
+   glmed1_l approaching upper bound of 1
+
+[2022-01-16 23:22:51.862] [cout] [info] time = 0.58 Performance = 4500.45 Constraint violation = 5.62515e-07
+[2022-01-16 23:22:52.572] [cout] [info] time = 0.59 Performance = 12798.1 Constraint violation = 5.84802e-08
+[2022-01-16 23:22:53.773] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Restoration failed (status -2)
+[2022-01-16 23:22:53.773] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:22:53.773] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.6.
+[2022-01-16 23:22:53.774] [warning] The model appears unsuitable for static optimization.
+Try appending the model with additional force(s) or locking joint(s) to reduce the following acceleration constraint violation(s):
+   pelvis_tilt: constraint violation = 1.17504e-06
+   pelvis_tilt: constraint violation = 1.3056e-06
+   pelvis_tilt: constraint violation = 2.11088e-06
+   pelvis_tilt: constraint violation = 0.000129463
+   pelvis_tilt: constraint violation = 5.52825e-06
+   pelvis_tilt: constraint violation = 2.64625e-06
+   pelvis_tilt: constraint violation = -1.80347e-06
+
+[2022-01-16 23:22:53.774] [cout] [info] time = 0.6 Performance = 14628.6 Constraint violation = 0.000129655
+[2022-01-16 23:22:54.846] [cout] [info] time = 0.61 Performance = 91294.4 Constraint violation = 2.04223e-08
+[2022-01-16 23:22:56.823] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Restoration failed (status -2)
+[2022-01-16 23:22:56.823] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:22:56.823] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.62.
+[2022-01-16 23:22:56.824] [cout] [info] time = 0.62 Performance = 10990.1 Constraint violation = 1.90885e-12
+[2022-01-16 23:22:58.450] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Restoration failed (status -2)
+[2022-01-16 23:22:58.451] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:22:58.451] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.63.
+[2022-01-16 23:22:58.451] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   glmed1_l approaching upper bound of 1
+   glmed2_l approaching upper bound of 1
+   glmin1_l approaching upper bound of 1
+   soleus_l approaching upper bound of 1
+   vaslat_l approaching upper bound of 1
+
+[2022-01-16 23:22:58.451] [cout] [info] time = 0.63 Performance = 502346. Constraint violation = 2.06626e-12
+[2022-01-16 23:22:59.527] [cout] [info] time = 0.64 Performance = 65618.5 Constraint violation = 2.00947e-08
+[2022-01-16 23:23:00.133] [cout] [info] time = 0.65 Performance = 19852.7 Constraint violation = 1.2136e-08
+[2022-01-16 23:23:00.704] [cout] [info] time = 0.66 Performance = 32152.1 Constraint violation = 1.18923e-08
+[2022-01-16 23:23:04.931] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Maximum iterations exceeded (status -1)
+[2022-01-16 23:23:04.931] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:23:04.931] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.67.
+[2022-01-16 23:23:04.931] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   fdl_l approaching upper bound of 1
+   fhl_l approaching upper bound of 1
+   gaslat_l approaching upper bound of 1
+   gasmed_l approaching upper bound of 1
+   glmed1_l approaching upper bound of 1
+   glmin1_l approaching upper bound of 1
+   perbrev_l approaching upper bound of 1
+   perlong_l approaching upper bound of 1
+   soleus_l approaching upper bound of 1
+   tfl_l approaching upper bound of 1
+   tibpost_l approaching upper bound of 1
+
+[2022-01-16 23:23:04.931] [cout] [info] time = 0.67 Performance = 199998. Constraint violation = 0.496971
+[2022-01-16 23:23:05.583] [cout] [info] time = 0.68 Performance = 141000. Constraint violation = 9.78357e-09
+[2022-01-16 23:23:06.710] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Restoration failed (status -2)
+[2022-01-16 23:23:06.710] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:23:06.710] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.69.
+[2022-01-16 23:23:06.710] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   fdl_l approaching upper bound of 1
+   fhl_l approaching upper bound of 1
+   gaslat_l approaching upper bound of 1
+   gasmed_l approaching upper bound of 1
+   glmax1_l approaching upper bound of 1
+   glmax2_l approaching upper bound of 1
+   glmed1_l approaching upper bound of 1
+   glmed2_l approaching upper bound of 1
+   glmed3_l approaching upper bound of 1
+   glmin1_l approaching upper bound of 1
+   glmin2_l approaching upper bound of 1
+   glmin3_l approaching upper bound of 1
+   perbrev_l approaching upper bound of 1
+   perlong_l approaching upper bound of 1
+   piri_l approaching upper bound of 1
+   recfem_l approaching upper bound of 1
+   soleus_l approaching upper bound of 1
+   tfl_l approaching upper bound of 1
+   tibpost_l approaching upper bound of 1
+
+[2022-01-16 23:23:06.710] [cout] [info] time = 0.69 Performance = 797005. Constraint violation = 0.0760653
+[2022-01-16 23:23:07.959] [cout] [info] time = 0.7 Performance = 40385.0 Constraint violation = 2.02894e-08
+[2022-01-16 23:23:11.548] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Maximum iterations exceeded (status -1)
+[2022-01-16 23:23:11.548] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:23:11.548] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.71.
+[2022-01-16 23:23:11.549] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   recfem_r approaching upper bound of 1
+   sart_r approaching upper bound of 1
+   fdl_l approaching upper bound of 1
+   fhl_l approaching upper bound of 1
+   gaslat_l approaching upper bound of 1
+   gasmed_l approaching upper bound of 1
+   perbrev_l approaching upper bound of 1
+   perlong_l approaching upper bound of 1
+   soleus_l approaching upper bound of 1
+   tibpost_l approaching upper bound of 1
+
+[2022-01-16 23:23:11.549] [cout] [info] time = 0.71 Performance = 224863. Constraint violation = 5.59326
+[2022-01-16 23:23:12.297] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Restoration failed (status -2)
+[2022-01-16 23:23:12.297] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:23:12.297] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.72.
+[2022-01-16 23:23:12.297] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   gasmed_l approaching upper bound of 1
+
+[2022-01-16 23:23:12.297] [cout] [info] time = 0.72 Performance = 36183.4 Constraint violation = 1.48010e-12
+[2022-01-16 23:23:12.983] [cout] [info] time = 0.73 Performance = 27538.6 Constraint violation = 2.60047e-08
+[2022-01-16 23:23:14.492] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Restoration failed (status -2)
+[2022-01-16 23:23:14.492] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:23:14.492] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.74.
+[2022-01-16 23:23:14.492] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   iliacus_l approaching upper bound of 1
+   psoas_l approaching upper bound of 1
+   sart_l approaching upper bound of 1
+   tfl_l approaching upper bound of 1
+
+[2022-01-16 23:23:14.492] [cout] [info] time = 0.74 Performance = 191997. Constraint violation = 2.61962e-07
+[2022-01-16 23:23:14.956] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Restoration failed (status -2)
+[2022-01-16 23:23:14.956] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:23:14.956] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.75.
+[2022-01-16 23:23:14.957] [cout] [info] time = 0.75 Performance = 407900. Constraint violation = 6.35765e-08
+[2022-01-16 23:23:15.755] [cout] [info] time = 0.76 Performance = 138884. Constraint violation = 6.76091e-09
+[2022-01-16 23:23:17.036] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Restoration failed (status -2)
+[2022-01-16 23:23:17.036] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:23:17.036] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.77.
+[2022-01-16 23:23:17.036] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   addmagProx_r approaching upper bound of 1
+   psoas_r approaching upper bound of 1
+   recfem_r approaching upper bound of 1
+   sart_r approaching upper bound of 1
+
+[2022-01-16 23:23:17.036] [cout] [info] time = 0.77 Performance = 289783. Constraint violation = 1.26601e-12
+[2022-01-16 23:23:17.659] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Restoration failed (status -2)
+[2022-01-16 23:23:17.659] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:23:17.659] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.78.
+[2022-01-16 23:23:17.659] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   addmagIsch_r approaching upper bound of 1
+   glmax1_r approaching upper bound of 1
+   glmax2_r approaching upper bound of 1
+   glmed1_r approaching upper bound of 1
+   glmed2_r approaching upper bound of 1
+   glmin1_r approaching upper bound of 1
+   vaslat_r approaching upper bound of 1
+   vasmed_r approaching upper bound of 1
+
+[2022-01-16 23:23:17.659] [cout] [info] time = 0.78 Performance = 2.86737e+06 Constraint violation = 1.10032e-10
+[2022-01-16 23:23:18.647] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Restoration failed (status -2)
+[2022-01-16 23:23:18.647] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:23:18.647] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.79.
+[2022-01-16 23:23:18.647] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   addbrev_r approaching upper bound of 1
+   addlong_r approaching upper bound of 1
+   addmagMid_r approaching upper bound of 1
+   addmagProx_r approaching upper bound of 1
+   bfsh_r approaching upper bound of 1
+   grac_r approaching upper bound of 1
+   psoas_r approaching upper bound of 1
+   recfem_r approaching upper bound of 1
+   sart_r approaching upper bound of 1
+   tibant_r approaching upper bound of 1
+
+[2022-01-16 23:23:18.647] [cout] [info] time = 0.79 Performance = 670005. Constraint violation = 2.7997e-12
+[2022-01-16 23:23:19.311] [cout] [info] time = 0.8 Performance = 100579. Constraint violation = 3.3113e-08
+[2022-01-16 23:23:19.671] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Restoration failed (status -2)
+[2022-01-16 23:23:19.671] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:23:19.671] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.81.
+[2022-01-16 23:23:19.671] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   addmagDist_r approaching upper bound of 1
+   addmagIsch_r approaching upper bound of 1
+   addmagMid_r approaching upper bound of 1
+   bflh_r approaching upper bound of 1
+   glmax1_r approaching upper bound of 1
+   glmax2_r approaching upper bound of 1
+   glmax3_r approaching upper bound of 1
+   glmed1_r approaching upper bound of 1
+   glmed2_r approaching upper bound of 1
+   glmed3_r approaching upper bound of 1
+   glmin3_r approaching upper bound of 1
+   grac_r approaching upper bound of 1
+   piri_r approaching upper bound of 1
+   semimem_r approaching upper bound of 1
+   semiten_r approaching upper bound of 1
+   vasint_r approaching upper bound of 1
+   vaslat_r approaching upper bound of 1
+   vasmed_r approaching upper bound of 1
+   addbrev_l approaching upper bound of 1
+   addlong_l approaching upper bound of 1
+   addmagProx_l approaching upper bound of 1
+   bfsh_l approaching upper bound of 1
+   edl_l approaching upper bound of 1
+   ehl_l approaching upper bound of 1
+   glmin1_l approaching upper bound of 1
+   glmin2_l approaching upper bound of 1
+   grac_l approaching upper bound of 1
+   iliacus_l approaching upper bound of 1
+   psoas_l approaching upper bound of 1
+   sart_l approaching upper bound of 1
+   tfl_l approaching upper bound of 1
+   tibant_l approaching upper bound of 1
+
+[2022-01-16 23:23:19.671] [cout] [info] time = 0.81 Performance = 2.10522e+06 Constraint violation = 3.70560e-12
+[2022-01-16 23:23:23.817] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Maximum iterations exceeded (status -1)
+[2022-01-16 23:23:23.817] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:23:23.817] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.82.
+[2022-01-16 23:23:23.818] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   bfsh_r approaching upper bound of 1
+   edl_r approaching upper bound of 1
+   ehl_r approaching upper bound of 1
+   gaslat_r approaching upper bound of 1
+   glmin2_r approaching upper bound of 1
+   glmin3_r approaching upper bound of 1
+   iliacus_r approaching upper bound of 1
+   piri_r approaching upper bound of 1
+   psoas_r approaching upper bound of 1
+   sart_r approaching upper bound of 1
+   tfl_r approaching upper bound of 1
+   tibant_r approaching upper bound of 1
+
+[2022-01-16 23:23:23.818] [cout] [info] time = 0.82 Performance = 659057. Constraint violation = 0.333809
+[2022-01-16 23:23:25.449] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Restoration failed (status -2)
+[2022-01-16 23:23:25.449] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:23:25.449] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.83.
+[2022-01-16 23:23:25.449] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   iliacus_l approaching upper bound of 1
+   psoas_l approaching upper bound of 1
+
+[2022-01-16 23:23:25.450] [cout] [info] time = 0.83 Performance = 53416.0 Constraint violation = 2.19774e-12
+[2022-01-16 23:23:25.891] [cout] [info] time = 0.84 Performance = 24116.9 Constraint violation = 7.11056e-13
+[2022-01-16 23:23:26.409] [cout] [info] time = 0.85 Performance = 157961. Constraint violation = 7.35746e-08
+[2022-01-16 23:23:26.993] [cout] [info] time = 0.86 Performance = 11609.0 Constraint violation = 7.79587e-08
+[2022-01-16 23:23:28.689] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Restoration failed (status -2)
+[2022-01-16 23:23:28.689] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:23:28.689] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.87.
+[2022-01-16 23:23:28.689] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   tibant_r approaching upper bound of 1
+
+[2022-01-16 23:23:28.690] [cout] [info] time = 0.87 Performance = 306801. Constraint violation = 8.10545e-06
+[2022-01-16 23:23:29.183] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Restoration failed (status -2)
+[2022-01-16 23:23:29.183] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:23:29.183] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.88.
+[2022-01-16 23:23:29.183] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   iliacus_l approaching upper bound of 1
+   psoas_l approaching upper bound of 1
+   recfem_l approaching upper bound of 1
+   tfl_l approaching upper bound of 1
+
+[2022-01-16 23:23:29.183] [cout] [info] time = 0.88 Performance = 135291. Constraint violation = 4.9235e-08
+[2022-01-16 23:23:30.561] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Restoration failed (status -2)
+[2022-01-16 23:23:30.561] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:23:30.561] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.89.
+[2022-01-16 23:23:30.561] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   gaslat_r approaching upper bound of 1
+   glmed3_r approaching upper bound of 1
+   iliacus_r approaching upper bound of 1
+   piri_r approaching upper bound of 1
+   psoas_r approaching upper bound of 1
+   sart_r approaching upper bound of 1
+
+[2022-01-16 23:23:30.561] [cout] [info] time = 0.89 Performance = 28996.1 Constraint violation = 2.00424e-06
+[2022-01-16 23:23:34.382] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Maximum iterations exceeded (status -1)
+[2022-01-16 23:23:34.382] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:23:34.382] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.9.
+[2022-01-16 23:23:34.382] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   addbrev_l approaching upper bound of 1
+   addlong_l approaching upper bound of 1
+   addmagProx_l approaching upper bound of 1
+   glmin1_l approaching upper bound of 1
+   glmin2_l approaching upper bound of 1
+   iliacus_l approaching upper bound of 1
+   psoas_l approaching upper bound of 1
+   recfem_l approaching upper bound of 1
+   sart_l approaching upper bound of 1
+   tfl_l approaching upper bound of 1
+
+[2022-01-16 23:23:34.383] [cout] [info] time = 0.9 Performance = 71673.4 Constraint violation = 1.18626
+[2022-01-16 23:23:35.534] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Restoration failed (status -2)
+[2022-01-16 23:23:35.534] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:23:35.534] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.91.
+[2022-01-16 23:23:35.534] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   tfl_r approaching upper bound of 1
+
+[2022-01-16 23:23:35.534] [cout] [info] time = 0.91 Performance = 25700.1 Constraint violation = 2.17129e-12
+[2022-01-16 23:23:37.557] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Restoration failed (status -2)
+[2022-01-16 23:23:37.557] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:23:37.557] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.92.
+[2022-01-16 23:23:37.558] [cout] [info] time = 0.92 Performance = 31189.4 Constraint violation = 1.88931e-10
+[2022-01-16 23:23:41.672] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Maximum iterations exceeded (status -1)
+[2022-01-16 23:23:41.672] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:23:41.672] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.93.
+[2022-01-16 23:23:41.672] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   bflh_r approaching upper bound of 1
+   glmax1_r approaching upper bound of 1
+   glmax2_r approaching upper bound of 1
+   glmed1_r approaching upper bound of 1
+   glmed2_r approaching upper bound of 1
+   glmed3_r approaching upper bound of 1
+   glmin1_r approaching upper bound of 1
+   glmin2_r approaching upper bound of 1
+   glmin3_r approaching upper bound of 1
+   piri_r approaching upper bound of 1
+   semimem_r approaching upper bound of 1
+   semiten_r approaching upper bound of 1
+   tfl_r approaching upper bound of 1
+   addlong_l approaching upper bound of 1
+   iliacus_l approaching upper bound of 1
+   psoas_l approaching upper bound of 1
+   recfem_l approaching upper bound of 1
+
+[2022-01-16 23:23:41.672] [cout] [info] time = 0.93 Performance = 81514.5 Constraint violation = 1.82582e-12
+[2022-01-16 23:23:42.428] [cout] [info] time = 0.94 Performance = 20091.8 Constraint violation = 5.10960e-07
+[2022-01-16 23:23:43.474] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Restoration failed (status -2)
+[2022-01-16 23:23:43.474] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:23:43.474] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.95.
+[2022-01-16 23:23:43.474] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   glmed1_r approaching upper bound of 1
+   addbrev_l approaching upper bound of 1
+   addlong_l approaching upper bound of 1
+   addmagProx_l approaching upper bound of 1
+   piri_l approaching upper bound of 1
+   psoas_l approaching upper bound of 1
+   recfem_l approaching upper bound of 1
+   sart_l approaching upper bound of 1
+
+[2022-01-16 23:23:43.474] [cout] [info] time = 0.95 Performance = 14089.2 Constraint violation = 2.27894e-12
+[2022-01-16 23:23:44.109] [cout] [info] time = 0.96 Performance = 227813. Constraint violation = 9.15134e-12
+[2022-01-16 23:23:45.670] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Restoration failed (status -2)
+[2022-01-16 23:23:45.670] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:23:45.670] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.97.
+[2022-01-16 23:23:45.671] [cout] [info] time = 0.97 Performance = 91779.0 Constraint violation = 4.12991e-12
+[2022-01-16 23:23:47.958] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Restoration failed (status -2)
+[2022-01-16 23:23:47.958] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:23:47.958] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 0.98.
+[2022-01-16 23:23:47.958] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   glmed1_r approaching upper bound of 1
+   vaslat_r approaching upper bound of 1
+
+[2022-01-16 23:23:47.958] [cout] [info] time = 0.98 Performance = 499719. Constraint violation = 4.65571e-05
+[2022-01-16 23:23:48.522] [cout] [info] time = 0.99 Performance = 7395.52 Constraint violation = 1.94152e-12
+[2022-01-16 23:23:49.600] [warning] SimTK Exception thrown at InteriorPointOptimizer.cpp:264:
+  Optimizer failed: Ipopt: Restoration failed (status -2)
+[2022-01-16 23:23:49.600] [warning] OPTIMIZATION FAILED...
+[2022-01-16 23:23:49.600] [warning] StaticOptimization.record: The optimizer could not find a solution at time = 1.0.
+[2022-01-16 23:23:49.600] [warning] The model appears too weak for static optimization.
+Try increasing the strength and/or range of the following force(s):
+   soleus_r approaching upper bound of 1
+   addmagProx_l approaching upper bound of 1
+   psoas_l approaching upper bound of 1
+   recfem_l approaching upper bound of 1
+   sart_l approaching upper bound of 1
+
+[2022-01-16 23:23:49.600] [cout] [info] time = 1.0 Performance = 36283.3 Constraint violation = 2.74303e-06
+[2022-01-16 23:23:49.602] [info] Printing results of investigation subject_scale_run to .
